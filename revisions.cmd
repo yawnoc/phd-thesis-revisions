@@ -29,5 +29,13 @@
     font-family: Tinos, serif;
     font-size: 11pt;
   }
+  h1 {
+    font-size: 1.4em;
+    margin: 0.3em auto;
+    text-align: center;
+  }
 ~~~~~~~~
 %%%%%%%%%%%%%%%%
+
+
+# Ph.D. Thesis Revisions #
