@@ -34,8 +34,20 @@
     margin: 0.3em auto;
     text-align: center;
   }
+  h2 {
+    font-size: 1.33em;
+    margin-top: 2em;
+  }
+  h1 + h2 {
+    margin-top: 0;
+  }
 ~~~~~~~~
 %%%%%%%%%%%%%%%%
 
 
 # Ph.D. Thesis Revisions #
+
+
+## Examiner~1 (A.B.) ##
+
+## Examiner~2 (I.M.) ##
