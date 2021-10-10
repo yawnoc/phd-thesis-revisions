@@ -7,6 +7,9 @@
 <title>revisions</title>
 <style>:root {
 --solid-line: 1px solid black;
+--solid-line-thick: 3px solid black;
+--line-grey: #949494;
+--text-grey: #595959;
 }
 @page {
 border-top: var(--solid-line);
@@ -23,6 +26,12 @@ content: "Page " counter(page) " of " counter(pages);
 margin-top: 0.5em;
 vertical-align: top;
 }
+}
+blockquote {
+border-left: var(--solid-line-thick);
+margin-left: 0.5em;
+margin-bottom: 0;
+padding: 0.3em 0.5em;
 }
 body {
 font-family: Tinos, serif;
@@ -42,12 +51,40 @@ margin-top: 0;
 }
 h3 {
 font-size: 1.2em;
+margin-top: 1.3em;
+}
+ol {
+margin: 0.3em 0;
+padding-left: 1.7em;
+}
+.action {
+border: var(--solid-line);
+margin-right: 0.15em;
+padding: 0.05em 0.2em;
+}
+.examiner {
+color: var(--text-grey);
+border-color: var(--line-grey);
+font-family: Arimo, sans-serif;
 }</style>
 </head>
 <body>
 <h1>Ph.D. Thesis Revisions</h1>
 <h2>Examiner&nbsp;1 (A.B.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
+<ol>
+<li><blockquote class="examiner">
+If I were critical I would ask that the candidate
+extend both Section&nbsp;1.1 and Chapter&nbsp;9.
+[…]
+However I am not insistent that these modification[s] are made;
+they are certainly not a deal-breaker by any stretch.
+</blockquote>
+<p>
+<span class="action">Not adopted.</span> This suggestion was optional.
+</p>
+</li>
+</ol>
 <h3>Suggestions from Viva Voce</h3>
 <h2>Examiner&nbsp;2 (I.M.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
