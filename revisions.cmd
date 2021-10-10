@@ -41,8 +41,14 @@
   h1 + h2 {
     margin-top: 0;
   }
+  h3 {
+    font-size: 1.2em;
+  }
 ~~~~~~~~
 %%%%%%%%%%%%%%%%
+
+{: \h3-exam : Suggestions from Examiner's Report :}
+{: \h3-defence : Suggestions from Viva Voce :}
 
 
 # Ph.D. Thesis Revisions #
@@ -50,4 +56,17 @@
 
 ## Examiner~1 (A.B.) ##
 
+
+### \h3-exam ###
+
+
+### \h3-defence ###
+
+
 ## Examiner~2 (I.M.) ##
+
+
+### \h3-exam ###
+
+
+### \h3-defence ###
