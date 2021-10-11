@@ -183,6 +183,15 @@ Z{%
 
 ### \h3-defence ###
 
+++++++++++++++++
+1.
+  """"{.examiner}
+  [Page 41]
+  Suggest improvement to the explanation of Figure~3.22a.
+  (Actual wording: it is a very "busy" diagram.)
+  """"
+++++++++++++++++
+
 
 ## Examiner~2 (I.M.) ##
 
