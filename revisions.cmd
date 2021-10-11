@@ -229,7 +229,8 @@ Z{%
   [...]
   Figure~3.22a shows (among other features) the frontiers of inflection
   for the two branches of traced boundaries<del>,
-  which we obtain by computing</del><ins>; these are</ins> the zero-contours
+  which we obtain by computing</del>\
+  <ins>; these frontiers are</ins> the zero-contours
   of the second derivative~(3.54)<del> using numerical integration</del>.
   [...]
   Since the end is to construct a domain
