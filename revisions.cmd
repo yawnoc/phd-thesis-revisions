@@ -345,6 +345,21 @@ Z{%
       , ![Figure 4.12 before](line-verification-relative-error-BEFORE.png)
       , ![Figure 4.12 after](line-verification-relative-error-AFTER.png)
   ''''
+  ----
+  For consistency, I have also done the same
+  for 'Relative error' in Figure~5.10 [Page~75];
+  see b<https://github.com/yawnoc/phd-thesis/commit/4d19232>.
+  ----
+  ''''
+  |^
+    ==
+      ; Before
+      ; After
+  |:
+    ==
+      , ![Figure 5.10 before](bipolar-verification-relative-error-BEFORE.png)
+      , ![Figure 5.10 after](bipolar-verification-relative-error-AFTER.png)
+  ''''
 
 4.
   """"{.examiner}
