@@ -305,6 +305,19 @@ Z{%
   after boundary tracing is a powerful one.
   (Actual wording: it was a "checkmark" for boundary tracing.)
   """"
+  ----
+  [NO] This suggestion arose from a discussion about
+  how good the numerical method (using Mathematica) was,
+  and whether I could have done an extra example for a self-viewing case.
+  Now, Part~I of the thesis applies boundary tracing to analytic solutions,
+  producing *exact* results (in that we reduce the problem
+  to integrating some ODEs, which can be done to any desired precision).
+  The numerical work is simply there to *verify* those results;
+  we are not pitting boundary tracing and numerics against each other.
+  Since the numerical work plays only a supporting role,
+  it should not be elevated by a comparison of what it can or cannot do
+  compared to the {boundary tracing + verify error} approach.
+  ----
 
 3.
   """"{.examiner}
