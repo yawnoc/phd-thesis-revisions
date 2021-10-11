@@ -176,7 +176,9 @@ Z{%
   they are certainly not a deal-breaker by any stretch.
   """"
   ----
-  [NO] This suggestion was optional.
+  [NO] This was more of a remark rather than a hard suggestion.
+  Indeed Examiner~1 awarded a straight 'Pass'
+  rather than a 'Pass subject to minor revision'.
   ----
 ++++++++++++++++
 
