@@ -238,7 +238,7 @@ Z{%
   serving as the constant-temperature boundary,
   we <del>immediately</del> discard any convex portion of traced boundary
   which does not reach {{x}} = π/2. Of the remaining convex portions,
-  those which do not reach the <del>{{x}}-axis ({{y}} = 0)</del>\
+  those which do not reach <del>the {{x}}-axis ({{y}} = 0)</del>\
   <ins>{{y}} = 0 (the line of symmetry)</ins>
   are unable to join up with a convex portion
   from the opposite branch [...].
