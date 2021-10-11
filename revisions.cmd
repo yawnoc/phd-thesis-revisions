@@ -199,7 +199,7 @@ Z{%
   """"
   ----
   [NO] This was more of a remark rather than a hard suggestion.
-  Indeed Examiner~1 awarded a straight 'Pass'
+  Indeed the examiner awarded a straight 'Pass'
   rather than a 'Pass subject to minor revision'.
   ----
 ++++++++++++++++
