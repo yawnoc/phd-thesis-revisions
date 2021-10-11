@@ -232,4 +232,50 @@ Z{%
     Thus the [[n]] in equation~(2.1) [Page~11] is the same [[n]]
     as that in~(1.1).
   ====
+
+2.
+  """"{.examiner}
+  [Page~37-ish, or Page~43]
+  Suggest remark about Mathematica not being able to
+  readily handle self-viewing (non-local) boundary conditions,
+  so the approach of verifying that self-viewing radiation is small
+  after boundary tracing is a powerful one.
+  (Actual wording: it was a "checkmark" for boundary tracing.)
+  """"
+
+3.
+  """"{.examiner}
+  [Page~58]
+  Suggest taking absolute value of 'Relative error' in Figure~4.12
+  so that everything is positive.
+  """"
+
+4.
+  """"{.examiner}
+  [Page~110]
+  Suggest articulating that boundary tracing results are
+  not for perfectly circular roundings.
+  """"
+  """"{.examiner}
+  [Page~110]
+  Suggest a remark about the range of radii covered by 'Boundary tracing'
+  versus 'Conventional'.
+  """"
+  """"{.examiner}
+  [Page~110]
+  Suggest also some remark on computation time of BVPs versus ODEs.
+  """"
+
+5.
+  """"{.examiner}
+  [Page~122]
+  Suggest remark about why the curves in Figure~7.17 are not smooth.
+  """"
+
+6.
+  """"{.examiner}
+  [Page~135]
+  Suggest improvement of wording to clarify that {{H}} = 0 is necessary
+  but not sufficient to eliminate the 1/{{r}} singularity at {{r}} = 0.
+  """"
 ++++++++++++++++
