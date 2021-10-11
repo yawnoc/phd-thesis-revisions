@@ -79,7 +79,7 @@
   .action {
     border: var(--solid-line);
     margin-right: 0.15em;
-    padding: 0.05em 0.2em;
+    padding: 0.05em 0.25em;
   }
   .del {
     font-family: 'DejaVu Sans';
