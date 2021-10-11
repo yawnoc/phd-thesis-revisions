@@ -30,6 +30,10 @@ margin-top: 0.5em;
 vertical-align: top;
 }
 }
+a {
+color: blue;
+text-decoration: none;
+}
 blockquote {
 border-left: var(--solid-line-thick);
 margin-left: 0.5em;
@@ -130,6 +134,55 @@ rather than a 'Pass subject to minor revision'.
 Suggest improvement to the explanation of Figure&nbsp;3.22a.
 (Actual wording: it is a very "busy" diagram.)
 </blockquote>
+<p>
+<span class="action">Adopted.</span> The following changes have been made to make the text terser
+and easier to understand:
+</p>
+<ul>
+<li>Split the long 'frontiers of inflection' sentence using a semicolon.
+</li>
+<li>Replaced ambiguous 'which' with explicit 'these frontiers'.
+</li>
+<li>Removed reference to numerical integration, which is irrelevant.
+</li>
+<li>Fixed missing hyphen for adjectival 'straight-line'.
+</li>
+<li>Removed 'immediately' before 'discard'.
+</li>
+<li>Replaced '<var>x</var>-axis' with '<var>y</var> = 0' and 'line of symmetry',
+both in the text and in the caption.
+('<var>x</var>-axis' was confusing because Figure&nbsp;3.22a had a frame, not axes.)
+</li>
+</ul>
+<p>
+[Page&nbsp;40, Paragraph&nbsp;4]:
+</p>
+<blockquote class="thesis">
+[…]
+Figure&nbsp;3.22a shows (among other features) the frontiers of inflection
+for the two branches of traced boundaries<del>,
+which we obtain by computing</del><ins>; these are</ins> the zero-contours
+of the second derivative&nbsp;(3.54)<del> using numerical integration</del>.
+[…]
+Since the end is to construct a domain
+with the straight<ins>-</ins>line contour <var>x</var> = π/2
+serving as the constant-temperature boundary,
+we <del>immediately</del> discard any convex portion of traced boundary
+which does not reach <var>x</var> = π/2. Of the remaining convex portions,
+those which do not reach the <del><var>x</var>-axis (<var>y</var> = 0)</del><ins><var>y</var> = 0 (the line of symmetry)</ins>
+are unable to join up with a convex portion
+from the opposite branch […].
+</blockquote>
+<p>
+[Page&nbsp;41, Figure&nbsp;3.22a caption]:
+</p>
+<blockquote class="thesis">
+[…] and the <del><var>x</var>-axis</del><ins>line of symmetry&nbsp;<var>y</var> = 0</ins>.
+</blockquote>
+<p>
+See &lt;<a href="https://github.com/yawnoc/phd-thesis/commit/11b2439">https://github.com/yawnoc/phd-thesis/commit/11b2439</a>&gt;
+for the changes to the LaTeX source.
+</p>
 </li>
 </ol>
 <h2>Examiner&nbsp;2 (I.M.)</h2>

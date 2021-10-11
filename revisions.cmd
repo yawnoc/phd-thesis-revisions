@@ -31,6 +31,10 @@
       vertical-align: top;
     }
   }
+  a {
+    color: blue;
+    text-decoration: none;
+  }
   blockquote {
     border-left: var(--solid-line-thick);
     margin-left: 0.5em;
@@ -192,6 +196,50 @@ Z{%
   Suggest improvement to the explanation of Figure~3.22a.
   (Actual wording: it is a very "busy" diagram.)
   """"
+  ----
+  [YES] The following changes have been made to make the text terser
+  and easier to understand:
+  ----
+  ====
+  - Split the long 'frontiers of inflection' sentence using a semicolon.
+  - Replaced ambiguous 'which' with explicit 'these frontiers'.
+  - Removed reference to numerical integration, which is irrelevant.
+  - Fixed missing hyphen for adjectival 'straight-line'.
+  - Removed 'immediately' before 'discard'.
+  - Replaced '{{x}}-axis' with '{{y}} = 0' and 'line of symmetry',
+    both in the text and in the caption.
+    ('{{x}}-axis' was confusing because Figure~3.22a had a frame, not axes.)
+  ====
+  ----
+  [Page~40, Paragraph~4]:
+  ----
+  """"{.thesis}
+  [...]
+  Figure~3.22a shows (among other features) the frontiers of inflection
+  for the two branches of traced boundaries<del>,
+  which we obtain by computing</del><ins>; these are</ins> the zero-contours
+  of the second derivative~(3.54)<del> using numerical integration</del>.
+  [...]
+  Since the end is to construct a domain
+  with the straight<ins>-</ins>line contour {{x}} = π/2
+  serving as the constant-temperature boundary,
+  we <del>immediately</del> discard any convex portion of traced boundary
+  which does not reach {{x}} = π/2. Of the remaining convex portions,
+  those which do not reach the <del>{{x}}-axis ({{y}} = 0)</del>\
+  <ins>{{y}} = 0 (the line of symmetry)</ins>
+  are unable to join up with a convex portion
+  from the opposite branch [...].
+  """"
+  ----
+  [Page~41, Figure~3.22a caption]:
+  ----
+  """"{.thesis}
+  [...] and the <del>{{x}}-axis</del><ins>line of symmetry~{{y}} = 0</ins>.
+  """"
+  ----
+  See b<https://github.com/yawnoc/phd-thesis/commit/11b2439>
+  for the changes to the LaTeX source.
+  ----
 ++++++++++++++++
 
 
