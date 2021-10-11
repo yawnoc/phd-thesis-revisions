@@ -7,6 +7,7 @@
 
 %css a~~~~~~~~
   :root {
+    --dotted-line: 1.5px dotted black;
     --solid-line: 1px solid black;
     --solid-line-thick: 3px solid black;
     --line-grey: #949494;
@@ -45,6 +46,10 @@
     font-family: Tinos, serif;
     font-size: 11pt;
   }
+  del {
+    background: #fdd;
+    text-decoration: line-through;
+  }
   h1 {
     font-size: 1.4em;
     margin: 0.3em auto;
@@ -60,6 +65,13 @@
   h3 {
     font-size: 1.2em;
     margin-top: 1.3em;
+  }
+  ins {
+    border: var(--dotted-line);
+    color: #050;
+    margin: 0 0.15em;
+    padding: 0 0.1em;
+    text-decoration: none;
   }
   ol, ul {
     margin: 0.3em 0;
