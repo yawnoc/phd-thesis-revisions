@@ -80,6 +80,12 @@
   li > p {
     margin-bottom: 0.5em;
   }
+  table {
+    margin: 0.2em auto 0;
+  }
+  td {
+    padding: 0.2em 1em 0;
+  }
   .abs-open {
     font-size: var(--delimeter-size);
     margin-right: var(--abs-gap);
@@ -325,6 +331,20 @@ Z{%
   Suggest taking absolute value of 'Relative error' in Figure~4.12
   so that everything is positive.
   """"
+  ----
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/78e09a1>
+  for the changes to Figure~4.12.
+  ----
+  ''''
+  |^
+    ==
+      ; Before
+      ; After
+  |:
+    ==
+      , ![Figure 4.12 before](line-verification-relative-error-BEFORE.png)
+      , ![Figure 4.12 after](line-verification-relative-error-AFTER.png)
+  ''''
 
 4.
   """"{.examiner}
