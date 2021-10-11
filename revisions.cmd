@@ -220,7 +220,7 @@ Z{%
   - Removed 'immediately' before 'discard'.
   - Replaced '{{x}}-axis' with '{{y}} = 0' and 'line of symmetry',
     both in the text and in the caption.
-    ('{{x}}-axis' was confusing because Figure~3.22a had a frame, not axes.)
+    ('{{x}}-axis' was confusing because Figure~3.22a has a frame, not axes.)
   ====
   ----
   [Page~40, Paragraph~4]:
