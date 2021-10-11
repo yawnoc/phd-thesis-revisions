@@ -10,6 +10,9 @@
 --solid-line-thick: 3px solid black;
 --line-grey: #949494;
 --text-grey: #595959;
+--abs-gap: 0.05em;
+--norm-gap: 0.1em;
+--delimeter-size: 1.1em;
 }
 @page {
 border-top: var(--solid-line);
@@ -53,19 +56,52 @@ h3 {
 font-size: 1.2em;
 margin-top: 1.3em;
 }
-ol {
+ol, ul {
 margin: 0.3em 0;
 padding-left: 1.7em;
+}
+li > p {
+margin-bottom: 0.5em;
+}
+.abs-open {
+font-size: var(--delimeter-size);
+margin-right: var(--abs-gap);
+}
+.abs-close {
+font-size: var(--delimeter-size);
+margin-left: var(--abs-gap);
 }
 .action {
 border: var(--solid-line);
 margin-right: 0.15em;
 padding: 0.05em 0.2em;
 }
+.del {
+font-family: 'DejaVu Sans';
+font-size: 0.985em;
+}
+.display-equation {
+margin: 0.2em auto;
+text-align: center;
+}
+.equation-number {
+float: right;
+}
 .examiner {
 color: var(--text-grey);
 border-color: var(--line-grey);
 font-family: Arimo, sans-serif;
+}
+.norm-open {
+font-size: var(--delimeter-size);
+margin-right: var(--norm-gap);
+}
+.norm-close {
+font-size: var(--delimeter-size);
+margin-left: var(--norm-gap);
+}
+.thesis {
+margin: 0.4em 2em;
 }</style>
 </head>
 <body>
@@ -89,5 +125,40 @@ they are certainly not a deal-breaker by any stretch.
 <h2>Examiner&nbsp;2 (I.M.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
 <h3>Suggestions from Viva Voce</h3>
+<ol>
+<li><blockquote class="examiner">
+[Page&nbsp;11]
+Suggest second figure showing that the normal vector is
+the normal (*in* the plane) to the diagonal of the rectangle in Figure&nbsp;2.1
+(rather than the normal *to* the plane).
+</blockquote>
+<p>
+<span class="action">Not adopted.</span> A second figure is not necessary.
+The context already makes it clear that <b class="vector">n</b>
+is the normal <em>in</em> the plane rather than <em>to</em> the plane:
+</p>
+<ul>
+<li>The introductory Section&nbsp;1.1 [Page&nbsp;1] expounds boundary tracing
+as a theory for flux boundary conditions in two dimensions.
+</li>
+<li>The normal vector <b class="vector">n</b>, as it appears in equation&nbsp;(1.1) [Page&nbsp;1],
+is clearly a normal <em>in</em> the plane:
+<blockquote class="thesis">
+Consider a BVP, consisting of a PDE in some two-dimensional domain&nbsp;<var>Ω</var>
+together with the boundary condition
+<div class="display-equation">
+<b class="vector">n</b> <b class="vector">·</b> <b class="del vector">∇</b><var>T</var> = <var>F</var>&thinsp;(<var>x</var>, <var>y</var>, <var>T</var>, <span class="norm-open">||</span><b class="del vector">∇</b><var>T</var><span class="norm-close">||</span>)
+<span class="equation-number">(1.1)</span>
+</div>
+on its boundary ∂<var>Ω</var>, […].
+</blockquote>
+</li>
+<li>The beginning of Section&nbsp;2.1 [Page&nbsp;11] refers explicitly to equation&nbsp;(1.1).
+Thus the <b class="vector">n</b> in equation&nbsp;(2.1) [Page&nbsp;11] is the same <b class="vector">n</b>
+as that in&nbsp;(1.1).
+</li>
+</ul>
+</li>
+</ol>
 </body>
 </html>
