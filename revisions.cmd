@@ -51,8 +51,8 @@
     text-decoration: line-through;
   }
   h1 {
-    font-size: 1.45em;
-    margin: 0.3em auto;
+    font-size: 1.5em;
+    margin: 0.5em auto;
     text-align: center;
   }
   h2 {
