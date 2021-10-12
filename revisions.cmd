@@ -425,9 +425,6 @@ and I note that I had no control over how the request for it was worded.
   It is well known that (PDE) BVPs
   are much more difficult to solve than ODE (IVP)s,
   whether analytically or numerically.
-  Moreover, I did not do any proper benchmark timing
-  when solving the BVPs versus the ODEs.
-  Therefore, any computation time I could give would be a guesstimate.
   ----
 
 5.
