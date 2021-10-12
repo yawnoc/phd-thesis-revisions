@@ -439,4 +439,16 @@ and I note that I had no control over how the request for it was worded.
   Suggest improvement of wording to clarify that {{H}} = 0 is necessary
   but not sufficient to eliminate the 1/{{r}} singularity at {{r}} = 0.
   """"
+  ----
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/7cac581>
+  for the changes to the LaTeX source. [Page~135]:
+  ----
+  """"{.thesis}
+  [...]
+  The Dirichlet condition~(8.18) therefore reduces to {{H}} = 0,
+  <del>and the singularity at~{{r}} = 0 is eliminated</del>\
+  <ins>which is consistent with an elimination of the singularity
+  at~{{r}} = 0</ins>.
+  [...]
+  """"
 ++++++++++++++++
