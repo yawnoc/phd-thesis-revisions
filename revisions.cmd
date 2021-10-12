@@ -386,14 +386,16 @@ and I note that I had no control over how the request for it was worded.
   not for perfectly circular roundings.
   """"
   ----
-  [NO] This is already in the text [Page~109],
+  [NO] This is already in the text [Page~109, last paragraph],
   literally the sentence after the reference to Figure~6.31
   (which could not fit on the same page):
   ----
   """"{.thesis}
+  [...]
   Figure 6.31 displays such a comparison for ({{α}}, {{γ}}{dot}) = (60°, 75°).
   The two approaches do not give exactly the same height rises because
   the rounding curves produced by boundary tracing are not perfectly circular.
+  [...]
   """"
   """"{.examiner}
   [Page~110]
@@ -401,9 +403,10 @@ and I note that I had no control over how the request for it was worded.
   versus 'Conventional'.
   """"
   ----
-  [NO] Also already in the text [Page~108--109]:
+  [NO] Also already in the text [Page~108, last line onwards]:
   ----
   """"{.thesis}
+  [...]
   Evidently the range of rounding radii
   which can be accounted for in this manner [boundary tracing]
   is directly related to the spread of the corner roundings,
@@ -441,7 +444,7 @@ and I note that I had no control over how the request for it was worded.
   """"
   ----
   [YES] See b<https://github.com/yawnoc/phd-thesis/commit/7cac581>
-  for the changes to the LaTeX source. [Page~135]:
+  for the changes to the LaTeX source. [Page~135, Paragraph~2]:
   ----
   """"{.thesis}
   [...]
