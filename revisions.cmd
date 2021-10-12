@@ -126,6 +126,10 @@
     font-size: var(--delimeter-size);
     margin-left: var(--norm-gap);
   }
+  .page-break {
+    break-before: page;
+    margin-top: 0.5em;
+  }
   .thesis {
     margin: 0.4em 2em;
   }
@@ -276,7 +280,7 @@ and I note that I had no control over how the request for it was worded.
 ++++++++++++++++
 
 
-## Examiner~2 (I.M.) ##
+##{.page-break} Examiner~2 (I.M.) ##
 
 
 ### \h3-exam ###
