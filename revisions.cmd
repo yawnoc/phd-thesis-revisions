@@ -435,6 +435,21 @@ and I note that I had no control over how the request for it was worded.
   [Page~122]
   Suggest remark about why the curves in Figure~7.17 are not smooth.
   """"
+  ----
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/466ab1d>
+  for the changes to the LaTeX source. [Page~122]:
+  ----
+  """"{.thesis}
+  [...] along each pseudo-rounding,
+  we may obtain a family of height-rise profiles
+  as shown in Figure~7.17.
+  <ins>\
+    The non-smoothness of the profiles
+    is caused by insufficient mesh refinement
+    in the original (non-offset) wedge,
+    in the vicinity of each pseudo-rounding.\
+  </ins>
+  """"
 
 6.
   """"{.examiner}
