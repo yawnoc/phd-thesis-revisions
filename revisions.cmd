@@ -80,6 +80,9 @@
   li > p {
     margin-bottom: 0.5em;
   }
+  sub, sup {
+    line-height: 0;
+  }
   table {
     margin: 0.2em auto 0;
   }
@@ -179,6 +182,7 @@ Z{%
 %
   <var>\g<symbol></var>
 %}
+Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 
 # Ph.D. Thesis Revisions #
 
@@ -372,6 +376,16 @@ and were not sent through afterwards.
   [Page~110]
   Suggest articulating that boundary tracing results are
   not for perfectly circular roundings.
+  """"
+  ----
+  [NO] This is already in the text [Page~109],
+  literally the sentence after the reference to Figure~6.31
+  (which could not fit on the same page):
+  ----
+  """"{.thesis}
+  Figure 6.31 displays such a comparison for ({{α}}, {{γ}}{dot}) = (60°, 75°).
+  The two approaches do not give exactly the same height rises because
+  the rounding curves produced by boundary tracing are not perfectly circular.
   """"
   """"{.examiner}
   [Page~110]
