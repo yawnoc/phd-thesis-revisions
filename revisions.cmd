@@ -417,6 +417,15 @@ and I note that I had no control over how the request for it was worded.
   [Page~110]
   Suggest also some remark on computation time of BVPs versus ODEs.
   """"
+  ----
+  [NO] I did not feel this was necessary.
+  It is well known that (PDE) BVPs
+  are much more difficult to solve than ODE (IVP)s,
+  whether analytically or numerically.
+  Moreover, I did not do any proper benchmark timing
+  when solving the BVPs versus the ODEs.
+  Therefore, any computation time I could give would be a guesstimate.
+  ----
 
 5.
   """"{.examiner}
