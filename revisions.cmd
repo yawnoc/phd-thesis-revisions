@@ -392,6 +392,19 @@ and were not sent through afterwards.
   Suggest a remark about the range of radii covered by 'Boundary tracing'
   versus 'Conventional'.
   """"
+  ----
+  [NO] Also already in the text [Page~108--109]:
+  ----
+  """"{.thesis}
+  Evidently the range of rounding radii
+  which can be accounted for in this manner [boundary tracing]
+  is directly related to the spread of the corner roundings,
+  over which we have no control.
+  The main weakness of boundary tracing is that
+  one cannot predetermine the shape of the resulting traced boundaries,
+  but this is to be expected for a method where, by its very nature,
+  boundary shape is the unknown.
+  """"
   """"{.examiner}
   [Page~110]
   Suggest also some remark on computation time of BVPs versus ODEs.
