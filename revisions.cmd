@@ -51,7 +51,7 @@
     text-decoration: line-through;
   }
   h1 {
-    font-size: 1.4em;
+    font-size: 1.45em;
     margin: 0.3em auto;
     text-align: center;
   }
@@ -60,7 +60,7 @@
     margin-top: 2em;
   }
   h1 + h2 {
-    margin-top: 0;
+    margin-top: 0.5em;
   }
   h3 {
     font-size: 1.2em;
