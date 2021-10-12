@@ -204,6 +204,12 @@ Z{%
   ----
 ++++++++++++++++
 
+----
+The examiner also noted "a couple of trivial typographical errors",
+but these were not raised at the defence,
+and were not sent through afterwards.
+----
+
 
 ### \h3-defence ###
 
