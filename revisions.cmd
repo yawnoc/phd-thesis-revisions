@@ -409,6 +409,16 @@ and I note that I had no control over how the request for it was worded.
   This is no more subjective than saying that it is "trivial",
   but much less highbrow.
   ----
+
+1.
+  [Page~21, equation~(3.16)]
+  """"{.examiner}
+  why not use the arclength formulation here. \|grad(T)=1\|.
+  """"
+  ----
+  [NO] We want analytical results, and we can get them here
+  by using coordinate (rather than arc-length) parametrisation.
+  ----
 ++++++++++++++++
 
 
