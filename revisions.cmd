@@ -336,8 +336,8 @@ and I note that I had no control over how the request for it was worded.
   """"
 
 1.
-  [Page~8, Paragraph~3]:
   """"{.examiner}
+  [Page~8, Paragraph~3]
   Can you put a diagram in showing and explaining
   [the Finn \&~Kosmodem'yanskii] modifications?
   """"
@@ -347,9 +347,9 @@ and I note that I had no control over how the request for it was worded.
   are not boundary tracing modifications.
 
 1.
-  [Page~14, unnumbered equation]:
   """"{.examiner}
   ----
+  [Page~14, unnumbered equation]
   [...] I suggest getting rid of the part before you introduce u(s) and v(s).
   At the very least reverse the order.
   You set everything up in terms of s already
@@ -375,8 +375,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~19, Figure~3.1]
   """"{.examiner}
+  [Page~19, Figure~3.1]
   I would rewrite this section a bit by setting up the problem Txx=0
   with T=constant on x=a*lambda and radiation condition on x=lambda.
   It makes the problem and domain easier to visualize.
@@ -395,7 +395,7 @@ and I note that I had no control over how the request for it was worded.
   such issues are avoided in the existing presentation.
   ----
 
-1.{.page-break}
+1.
   [Page~21, Paragraph~1, after~(3.15)]
   """"{.thesis}
   [...] consists of the <del>infinite</del><ins class="examiner">finite</ins>
@@ -405,9 +405,9 @@ and I note that I had no control over how the request for it was worded.
   [NO] The strip is infinite in the {{y}}-direction.
   ----
 
-1.
-  [Page~21, Paragraph~2, before~(3.16)]
+1.{.page-break}
   """"{.examiner}
+  [Page~21, Paragraph~2, before~(3.16)]
   avoid this kind of subjective language ["boring"] in the thesis :).
   """"
   ----
@@ -417,8 +417,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~21, equation~(3.16)]
   """"{.examiner}
+  [Page~21, equation~(3.16)]
   why not use the arclength formulation here. \|grad(T)=1\|.
   """"
   ----
@@ -427,9 +427,9 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~34, equation~(3.53)]
   """"{.examiner}
-  put x0 in [equation~(3.53)].
+  [Page~34, equation~(3.53)]
+  put x0 in here.
   """"
   ----
   [NO] Here we have:
@@ -446,8 +446,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~34, last line]
   """"{.examiner}
+  [Page~34, last line]
   do you want to draw
   [two curves which are virtually indistinguishable]
   together?
@@ -482,8 +482,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.{.page-break}
-  [Page~40, Paragraph~5]:
   """"{.examiner}
+  [Page~40, Paragraph~5]
   [...]
   I'm not sure how to word it better because it is quite complex.
   Is it possible to add more figures to walk the reader through the steps?
@@ -495,8 +495,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~42, Paragraph~2]:
   """"{.examiner}
+  [Page~42, Paragraph~2]
   [Instead of "({{B}}~arbitrary)",] say what it is...\
   I know you say it in the figure but you should still say it here.
   """"
@@ -508,8 +508,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~42, last line]:
   """"{.examiner}
+  [Page~42, last line]
   ["completely"] is a strong word, I would remove it.
   It is very convincing yes, but there is no rigorous proof or anything.
   """"
