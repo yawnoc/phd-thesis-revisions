@@ -39,7 +39,7 @@
   blockquote {
     border-left: var(--solid-line-thick);
     margin-left: 0.5em;
-    margin-bottom: 0;
+    margin-bottom: 0.75em;
     padding: 0.3em 0.5em;
   }
   body {
@@ -318,6 +318,17 @@ and I note that I had no control over how the request for it was worded.
   1. To continue being true or valid; to hold true.
   ++++
   """"
+
+1.
+  [Page~8, Paragraph~3]:
+  """"{.examiner}
+  Can you put a diagram in showing and explaining
+  [the Finn \&~Kosmodem'yanskii] modifications?
+  """"
+  [NO] A diagram *could* be put in,
+  but it would not sit suitably within the context of the section
+  because the Finn \&~Kosmodem'yanskii modifications
+  are not boundary tracing modifications.
 ++++++++++++++++
 
 
