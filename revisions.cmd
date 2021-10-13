@@ -470,6 +470,16 @@ and I note that I had no control over how the request for it was worded.
   "portions [...] which lie this side of the inflection frontiers".
   Having "on the" followed by "of the" is a bit of a mouthful.
   ----
+
+1.
+  [Page~40, Paragraph~4]:
+  """"{.thesis}
+  Since the <del>end</del><ins class="examiner">aim?</ins>
+  is to construct a domain [...]
+  """"
+  ----
+  [NO]. End means aim.
+  ----
 ++++++++++++++++
 
 
