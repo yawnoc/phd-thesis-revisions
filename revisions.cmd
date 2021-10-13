@@ -388,6 +388,16 @@ and I note that I had no control over how the request for it was worded.
   why one of the boundaries isn't chosen at~{{x}} = 0;
   such issues are avoided in the existing presentation.
   ----
+
+1.{.page-break}
+  [Page~21, Paragraph~1, after~(3.15)]
+  """"{.thesis}
+  [...] consists of the <del>infinite</del><ins class="examiner">finite</ins>
+  strip 0 ≤ {{x}} ≤ 1.
+  """"
+  ----
+  [NO] The strip is infinite in the {{y}}-direction.
+  ----
 ++++++++++++++++
 
 
