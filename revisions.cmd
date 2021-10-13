@@ -523,6 +523,18 @@ and I note that I had no control over how the request for it was worded.
   ----
   **TODO: Actually make the change in the thesis**
   ----
+
+1.
+  """"{.examiner}
+  [Page~46, equation~(4.14)]
+  This is a bit of a convoluted away to arrive at this.
+  Since you're taking T0 and r0 as the scales anyway just do that
+  and arrive at your dimensionless constant for the radiation condition.
+  """"
+  ----
+  [NO] There was more than one way to choose the scales.
+  Doing it in full shows why the chosen scaling is the best.
+  ----
 ++++++++++++++++
 
 
