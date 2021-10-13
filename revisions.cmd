@@ -63,6 +63,9 @@
     font-size: 1.2em;
     margin-top: 1.3em;
   }
+  blockquote > h3 {
+    margin: 0 0 0.5em;
+  }
   ins {
     border: var(--dotted-line);
     color: #050;
@@ -296,6 +299,26 @@ and I note that I had no control over how the request for it was worded.
 
 
 ### \h3-exam ###
+
+++++++++++++++++
+1.
+  [Page~8, Paragraph~2]:
+  """"{.thesis}
+  [...] we must remember that the small-slope assumption ([[del]]{{T}})² ≪ 1
+  does not hold <del>good</del><ins class="examiner">well</ins>
+  in the highly nonlinear regimes of the Laplace--Young equation.
+  """"
+  ----
+  [NO] Per Wiktionary b<https://en.wiktionary.org/wiki/hold_good>:
+  ----
+  """"
+  ### Verb ###
+  __hold good__ ([...]) (_intransitive_)
+  ++++
+  1. To continue being true or valid; to hold true.
+  ++++
+  """"
+++++++++++++++++
 
 
 ### \h3-defence ###
