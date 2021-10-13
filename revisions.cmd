@@ -65,6 +65,9 @@
     font-size: 1.33em;
     margin-top: 1.35em;
   }
+  h2:first-child {
+    margin-top: 0.75em;
+  }
   h3 {
     font-size: 1.2em;
     margin-top: 1.3em;
@@ -137,10 +140,6 @@
   .norm-close {
     font-size: var(--delimeter-size);
     margin-left: var(--norm-gap);
-  }
-  .page-break {
-    break-before: page;
-    margin-top: 0.5em;
   }
   .thesis {
     margin: 0.4em 2em;
@@ -311,7 +310,7 @@ and I note that I had no control over how the request for it was worded.
 ++++++++++++++++
 
 
-##{.page-break} Examiner~2 (I.M.) ##
+## Examiner~2 (I.M.) ##
 
 
 ### \h3-exam ###
@@ -405,7 +404,7 @@ and I note that I had no control over how the request for it was worded.
   [NO] The strip is infinite in the {{y}}-direction.
   ----
 
-1.{.page-break}
+1.
   """"{.examiner}
   [Page~21, Paragraph~2, before~(3.16)]
   avoid this kind of subjective language ["boring"] in the thesis :).
@@ -481,7 +480,7 @@ and I note that I had no control over how the request for it was worded.
   [NO]. End means aim.
   ----
 
-1.{.page-break}
+1.
   """"{.examiner}
   [Page~40, Paragraph~5]
   [...]
