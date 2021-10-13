@@ -506,6 +506,23 @@ and I note that I had no control over how the request for it was worded.
   this would imply that "the general case" is that specific value,
   which it is not.
   ----
+
+1.
+  [Page~42, last line]:
+  """"{.examiner}
+  ["completely"] is a strong word, I would remove it.
+  It is very convincing yes, but there is no rigorous proof or anything.
+  """"
+  ----
+  [YES] Compromise:
+  ----
+  """"{.thesis}
+  We can therefore be <del>completely</del><ins>very</ins> confident
+  in the validity of the boundary tracing procedure.
+  """"
+  ----
+  **TODO: Actually make the change in the thesis**
+  ----
 ++++++++++++++++
 
 
