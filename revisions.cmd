@@ -398,6 +398,17 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The strip is infinite in the {{y}}-direction.
   ----
+
+1.
+  [Page~21, Paragraph~2, before~(3.16)]
+  """"{.examiner}
+  avoid this kind of subjective language ["boring"] in the thesis :).
+  """"
+  ----
+  [NO] The straight-line boundary ({{x}} = 1) is boring.
+  This is no more subjective than saying that it is "trivial",
+  but much less highbrow.
+  ----
 ++++++++++++++++
 
 
