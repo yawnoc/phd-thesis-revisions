@@ -257,7 +257,7 @@ and I note that I had no control over how the request for it was worded.
 ### \h3-defence ###
 
 ++++++++++++++++{.revisions}
-1.
+1.{#busy}
   """"{.examiner}
   [Page 41]
   Suggest improvement to the explanation of Figure~3.22a.
@@ -479,6 +479,19 @@ and I note that I had no control over how the request for it was worded.
   """"
   ----
   [NO]. End means aim.
+  ----
+
+1.{.page-break}
+  [Page~40, Paragraph~5]:
+  """"{.examiner}
+  [...]
+  I'm not sure how to word it better because it is quite complex.
+  Is it possible to add more figures to walk the reader through the steps?
+  """"
+  ----
+  [NO]
+  For improvements to the wording, see the changes made in reponse to
+  [Examiner~1 > Viva Voce > Suggestion~1](#busy).
   ----
 ++++++++++++++++
 
