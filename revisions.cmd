@@ -444,6 +444,18 @@ and I note that I had no control over how the request for it was worded.
   Furthermore, keeping {{x}} generic is consistent with the treatment
   if the equation were to have two positive solutions, {{x}}{0} and~{{x}}{1}.
   ----
+
+1.
+  [Page~34, last line]
+  """"{.examiner}
+  do you want to draw
+  [two curves which are virtually indistinguishable]
+  together?
+  """"
+  ----
+  [NO] The figure would simply appear as if there were only one curve.
+  The caption would be no different to the existing text.
+  ----
 ++++++++++++++++
 
 
