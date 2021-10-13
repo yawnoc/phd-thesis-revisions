@@ -535,6 +535,19 @@ and I note that I had no control over how the request for it was worded.
   [NO] There was more than one way to choose the scales.
   Doing it in full shows why the chosen scaling is the best.
   ----
+
+1.
+  """"{.examiner}
+  [Page~47, after~(4.21)]
+  Just for math technicality,
+  just because there is a maximum doesn't mean there is a single maximum.
+  In fact x=1 is a critical point as well, but it is a minimum.
+  Need just some different language here.
+  """"
+  ----
+  [NO] I do not claim there is a single maximum because there is a maximum.
+  The single maximum follows because the sign change is the only sign change.
+  ----
 ++++++++++++++++
 
 
