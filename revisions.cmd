@@ -493,6 +493,19 @@ and I note that I had no control over how the request for it was worded.
   For improvements to the wording, see the changes made in reponse to
   [Examiner~1 > Viva Voce > Suggestion~1](#busy).
   ----
+
+1.
+  [Page~42, Paragraph~2]:
+  """"{.examiner}
+  [Instead of "({{B}}~arbitrary)",] say what it is...\
+  I know you say it in the figure but you should still say it here.
+  """"
+  ----
+  [NO] The text has "the general case ({{B}}~arbitrary)".
+  If the parenthetical were changed to "{{B}} = 0.082506",
+  this would imply that "the general case" is that specific value,
+  which it is not.
+  ----
 ++++++++++++++++
 
 
