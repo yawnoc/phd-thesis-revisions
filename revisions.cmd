@@ -413,7 +413,7 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The straight-line boundary ({{x}} = 1) is boring.
   This is no more subjective than saying that it is "trivial",
-  but much less highbrow.
+  but less highbrow.
   ----
 
 1.
