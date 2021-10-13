@@ -42,6 +42,12 @@
     margin-bottom: 0.75em;
     padding: 0.3em 0.5em;
   }
+  blockquote > :first-child {
+    margin-top: 0;
+  }
+  blockquote > :last-child {
+    margin-bottom: 0;
+  }
   body {
     font-family: Tinos, serif;
     font-size: 11pt;
@@ -72,6 +78,9 @@
     margin: 0 0.15em;
     padding: 0 0.1em;
     text-decoration: none;
+  }
+  .revisions > li {
+    margin-top: 1em;
   }
   h1 + ul {
     margin-top: 1em;
@@ -211,7 +220,7 @@ Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 
 ### \h3-exam ###
 
-++++++++++++++++
+++++++++++++++++{.revisions}
 1.
   """"{.examiner}
   If I were critical I would ask that the candidate
@@ -240,7 +249,7 @@ and I note that I had no control over how the request for it was worded.
 
 ### \h3-defence ###
 
-++++++++++++++++
+++++++++++++++++{.revisions}
 1.
   """"{.examiner}
   [Page 41]
@@ -300,7 +309,7 @@ and I note that I had no control over how the request for it was worded.
 
 ### \h3-exam ###
 
-++++++++++++++++
+++++++++++++++++{.revisions}
 1.
   [Page~8, Paragraph~2]:
   """"{.thesis}
@@ -329,12 +338,40 @@ and I note that I had no control over how the request for it was worded.
   but it would not sit suitably within the context of the section
   because the Finn \&~Kosmodem'yanskii modifications
   are not boundary tracing modifications.
+
+1.
+  [Page~14, unnumbered equation]:
+  """"{.examiner}
+  ----
+  [...] I suggest getting rid of the part before you introduce u(s) and v(s).
+  At the very least reverse the order.
+  You set everything up in terms of s already
+  so deriving~(2.22) and~(2.23) is natural.
+  You can then make a comment that if there are not any singularities
+  then you could get u=u(v) (or vice versa) as du/ds/dv/ds.
+  ----
+  ----
+  Actually, as I work it out, it's not immediately clear this calculus holds.
+  ----
+  """"
+  ----
+  [NO] The existing order of presentation is natural and logical.
+  We begin with coordinate parametrisation (for analytical work)
+  and only pass to arc-length~{{s}} (for numerical work)
+  if there are singularities.
+  Things are set up in terms of~{{s}} to avoid backtracking
+  when presenting the arc-length case.
+  ----
+  ----
+  The calculus (d{{v}}/d{{u}} = d{{v}}/d{{s}} ÷ d{{u}}/d{{s}}) is sound,
+  as explained in the viva voce.
+  ----
 ++++++++++++++++
 
 
 ### \h3-defence ###
 
-++++++++++++++++
+++++++++++++++++{.revisions}
 1.
   """"{.examiner}
   [Page~11]
@@ -517,7 +554,7 @@ and I note that I had no control over how the request for it was worded.
 
 ## Self-imposed changes ##
 
-++++++++++++++++
+++++++++++++++++{.revisions}
 1.
   Fixed Figure~C.2 vertical axis range
   so that the bottom is exactly {{T}} = 0:

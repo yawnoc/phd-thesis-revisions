@@ -41,6 +41,12 @@ margin-left: 0.5em;
 margin-bottom: 0.75em;
 padding: 0.3em 0.5em;
 }
+blockquote > :first-child {
+margin-top: 0;
+}
+blockquote > :last-child {
+margin-bottom: 0;
+}
 body {
 font-family: Tinos, serif;
 font-size: 11pt;
@@ -71,6 +77,9 @@ color: #050;
 margin: 0 0.15em;
 padding: 0 0.1em;
 text-decoration: none;
+}
+.revisions > li {
+margin-top: 1em;
 }
 h1 + ul {
 margin-top: 1em;
@@ -151,7 +160,7 @@ margin: 0.4em 2em;
 </ul>
 <h2>Examiner&nbsp;1 (A.B.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
-<ol>
+<ol class="revisions">
 <li><blockquote class="examiner">
 If I were critical I would ask that the candidate
 extend both Section&nbsp;1.1 and Chapter&nbsp;9.
@@ -176,7 +185,7 @@ I do not understand why the list was not sent through,
 and I note that I had no control over how the request for it was worded.
 </p>
 <h3>Suggestions from Viva Voce</h3>
-<ol>
+<ol class="revisions">
 <li><blockquote class="examiner">
 [Page 41]
 Suggest improvement to the explanation of Figure&nbsp;3.22a.
@@ -235,7 +244,7 @@ for the changes to the LaTeX source.
 </ol>
 <h2 class="page-break">Examiner&nbsp;2 (I.M.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
-<ol>
+<ol class="revisions">
 <li>[Page&nbsp;8, Paragraph&nbsp;2]:
 <blockquote class="thesis">
 […] we must remember that the small-slope assumption (<b class="del vector">∇</b><var>T</var>)² ≪ 1
@@ -264,9 +273,36 @@ but it would not sit suitably within the context of the section
 because the Finn &amp;&nbsp;Kosmodem'yanskii modifications
 are not boundary tracing modifications.
 </li>
+<li>[Page&nbsp;14, unnumbered equation]:
+<blockquote class="examiner">
+<p>
+[…] I suggest getting rid of the part before you introduce u(s) and v(s).
+At the very least reverse the order.
+You set everything up in terms of s already
+so deriving&nbsp;(2.22) and&nbsp;(2.23) is natural.
+You can then make a comment that if there are not any singularities
+then you could get u=u(v) (or vice versa) as du/ds/dv/ds.
+</p>
+<p>
+Actually, as I work it out, it's not immediately clear this calculus holds.
+</p>
+</blockquote>
+<p>
+<span class="action">Not adopted.</span> The existing order of presentation is natural and logical.
+We begin with coordinate parametrisation (for analytical work)
+and only pass to arc-length&nbsp;<var>s</var> (for numerical work)
+if there are singularities.
+Things are set up in terms of&nbsp;<var>s</var> to avoid backtracking
+when presenting the arc-length case.
+</p>
+<p>
+The calculus (d<var>v</var>/d<var>u</var> = d<var>v</var>/d<var>s</var> ÷ d<var>u</var>/d<var>s</var>) is sound,
+as explained in the viva voce.
+</p>
+</li>
 </ol>
 <h3>Suggestions from Viva Voce</h3>
-<ol>
+<ol class="revisions">
 <li><blockquote class="examiner">
 [Page&nbsp;11]
 Suggest second figure showing that the normal vector is
@@ -449,7 +485,7 @@ at&nbsp;<var>r</var> = 0</ins>.
 </li>
 </ol>
 <h2>Self-imposed changes</h2>
-<ol>
+<ol class="revisions">
 <li>Fixed Figure&nbsp;C.2 vertical axis range
 so that the bottom is exactly <var>T</var> = 0:
 <table>
