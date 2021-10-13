@@ -479,3 +479,22 @@ and I note that I had no control over how the request for it was worded.
   [...]
   """"
 ++++++++++++++++
+
+
+## Self-imposed changes ##
+
+++++++++++++++++
+1.
+  Fixed Figure~C.2 vertical axis range
+  so that the bottom is exactly {{T}} = 0:
+  ''''
+  |^
+    ==
+      ; Before
+      ; After
+  |:
+    ==
+      , ![Figure C.2 before](conformal_triangle-known-solution-BEFORE.png)
+      , ![Figure C.2 after](conformal_triangle-known-solution-AFTER.png)
+  ''''
+++++++++++++++++
