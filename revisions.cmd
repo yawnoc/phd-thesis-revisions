@@ -198,7 +198,13 @@ Z{%
 %
   <var>\g<symbol></var>
 %}
-Z{: {0} : <sub>0</sub> :}
+Z{%
+  \{
+    (?P<digit> [0-9] )
+  \}
+%
+  <sub>\g<digit></sub>
+%}
 Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 
 
@@ -418,6 +424,25 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] We want analytical results, and we can get them here
   by using coordinate (rather than arc-length) parametrisation.
+  ----
+
+1.
+  [Page~34, equation~(3.53)]
+  """"{.examiner}
+  put x0 in [equation~(3.53)].
+  """"
+  ----
+  [NO] Here we have:
+  ----
+  """"{.thesis}
+  Algebraically, {{x}}{0} is the positive solution to [equation~(3.53)],
+  a polynomial equation in~cos~{{x}}.
+  """"
+  ----
+  Since (3.53)~is a generic equation, it ought to have {{x}} be generic,
+  rather than substituted with the particular value~{{x}}{0}.
+  Furthermore, keeping {{x}} generic is consistent with the treatment
+  if the equation were to have two positive solutions, {{x}}{0} and~{{x}}{1}.
   ----
 ++++++++++++++++
 
