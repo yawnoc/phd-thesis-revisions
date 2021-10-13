@@ -456,6 +456,20 @@ and I note that I had no control over how the request for it was worded.
   [NO] The figure would simply appear as if there were only one curve.
   The caption would be no different to the existing text.
   ----
+
+1.
+  [Page~40, Paragraph~4]:
+  """"{.thesis}
+  [...] Only the portions of traced boundary
+  which lie <ins class="examiner">on the</ins> convex side
+  of the inflection frontiers
+  will be valid as radiation boundaries. [...]
+  """"
+  ----
+  [NO] Omitting "on the" is stylistic, in the same way that one might say
+  "portions [...] which lie this side of the inflection frontiers".
+  Having "on the" followed by "of the" is a bit of a mouthful.
+  ----
 ++++++++++++++++
 
 
