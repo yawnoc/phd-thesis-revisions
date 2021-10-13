@@ -57,10 +57,7 @@
   }
   h2 {
     font-size: 1.33em;
-    margin-top: 2em;
-  }
-  h1 + h2 {
-    margin-top: 0.5em;
+    margin-top: 1.35em;
   }
   h3 {
     font-size: 1.2em;
@@ -72,6 +69,9 @@
     margin: 0 0.15em;
     padding: 0 0.1em;
     text-decoration: none;
+  }
+  h1 + ul {
+    margin-top: 1em;
   }
   ol, ul {
     margin: 0.3em 0;
@@ -188,7 +188,19 @@ Z{%
 %}
 Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 
+
 # Ph.D. Thesis Revisions #
+
+====
+- Version submitted for examination:
+  b<https://github.com/yawnoc/phd-thesis/tree/v0.3.3>
+
+- Version with revisions:
+  b<https://github.com/yawnoc/phd-thesis/tree/revisions>
+
+- Difference:
+  b<https://github.com/yawnoc/phd-thesis/compare/v0.3.3...revisions>
+====
 
 
 ## Examiner~1 (A.B.) ##
