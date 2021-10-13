@@ -83,6 +83,7 @@
     text-decoration: none;
   }
   .revisions > li {
+    break-inside: avoid;
     margin-top: 1em;
   }
   h1 + ul {
