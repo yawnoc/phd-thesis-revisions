@@ -198,6 +198,7 @@ Z{%
 %
   <var>\g<symbol></var>
 %}
+Z{: {0} : <sub>0</sub> :}
 Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 
 
@@ -365,6 +366,27 @@ and I note that I had no control over how the request for it was worded.
   ----
   The calculus (d{{v}}/d{{u}} = d{{v}}/d{{s}} ÷ d{{u}}/d{{s}}) is sound,
   as explained in the viva voce.
+  ----
+
+1.
+  [Page~19, Figure~3.1]
+  """"{.examiner}
+  I would rewrite this section a bit by setting up the problem Txx=0
+  with T=constant on x=a*lambda and radiation condition on x=lambda.
+  It makes the problem and domain easier to visualize.
+  You can then do your non-dimensionalization and explain that
+  T=x is a solution and carry on.
+  """"
+  ----
+  [NO] Since boundary tracing *starts with* solutions to the field equation
+  (rather than ending with them),
+  it is more appropriate to begin with the plane-source solution
+  ({{T}} = {{h}}{0}{{x}}) from the outset.
+  ----
+  ----
+  Furthermore, the suggested rewrite would raise questions such as
+  why one of the boundaries isn't chosen at~{{x}} = 0;
+  such issues are avoided in the existing presentation.
   ----
 ++++++++++++++++
 
