@@ -520,11 +520,11 @@ and I note that I had no control over how the request for it was worded.
   [YES] Compromise:
   ----
   """"{.thesis}
-  We can therefore be <del>completely</del><ins>very</ins> confident
+  We can therefore be <del>completely</del><ins>extremely</ins> confident
   in the validity of the boundary tracing procedure.
   """"
   ----
-  **TODO: Actually make the change in the thesis**
+  See b<https://github.com/yawnoc/phd-thesis/commit/f1cde15>.
   ----
 
 1.
