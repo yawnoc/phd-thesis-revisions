@@ -57,11 +57,13 @@
     text-decoration: line-through;
   }
   h1 {
+    break-after: avoid;
     font-size: 1.5em;
     margin: 0.5em auto;
     text-align: center;
   }
   h2 {
+    break-after: avoid;
     font-size: 1.33em;
     margin-top: 1.35em;
   }
@@ -69,6 +71,7 @@
     margin-top: 0.75em;
   }
   h3 {
+    break-after: avoid;
     font-size: 1.2em;
     margin-top: 1.3em;
   }
