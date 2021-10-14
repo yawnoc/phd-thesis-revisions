@@ -209,6 +209,7 @@ Z{%
   <sub>\g<digit></sub>
 %}
 Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
+Z{: {flat} : <sub>♭</sub> :} <## U+266D MUSIC FLAT SIGN ##>
 
 
 # Ph.D. Thesis Revisions #
@@ -564,6 +565,19 @@ and I note that I had no control over how the request for it was worded.
   when {{A}} no longer takes the critical value.
   In any case, the sought exercise appears on the next page (Section~4.4.1).
   ----
+
+1.
+  """"{.examiner}
+  [Page~52, Paragraph~3, first line]
+  reword ["this restriction is most severe"]. Do you mean it's impossible?
+  """"
+  ----
+  [NO] Not impossible, but hardly possible. At the end of that paragraph:
+  ----
+  """"{.thesis}
+  [...] the only convex domain is the trivial disk
+  whose boundary is the circle {{r}} = {{r}}{flat}.
+  """"
 ++++++++++++++++
 
 
