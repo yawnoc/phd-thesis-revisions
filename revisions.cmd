@@ -210,6 +210,7 @@ Z{%
 %}
 Z{: {dot} : <sub>•</sub> :} <## U+2022 BULLET ##>
 Z{: {flat} : <sub>♭</sub> :} <## U+266D MUSIC FLAT SIGN ##>
+Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
 
 
 # Ph.D. Thesis Revisions #
@@ -682,6 +683,17 @@ and I note that I had no control over how the request for it was worded.
   before we pass to a global curvature analysis.
   If convexity were not possible,
   then the global analysis would be a waste of time.
+  ----
+
+1.
+  """"{.examiner}
+  [Page~56, last paragraph, before numbered list]
+  [Should {{r}} ≤ {{r}}{sharp} be] r=r\_sharp?
+  """"
+  ----
+  [NO]
+  {{r}} ≤ {{r}}{sharp} is (correctly) a disk.
+  {{r}} = {{r}}{sharp} would be a circle.
   ----
 ++++++++++++++++
 
