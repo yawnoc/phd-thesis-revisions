@@ -608,6 +608,15 @@ and I note that I had no control over how the request for it was worded.
   Figure~4.7 (directly above) also makes it clear
   that the tangency occurs at~{{ϕ}} = 0.
   ----
+
+1.
+  """"{.examiner}
+  [Page~54, equation~(4.37)]
+  clarifying you're expanding phi small here.
+  """"
+  ----
+  [NO] Obvious from the context.
+  ----
 ++++++++++++++++
 
 
