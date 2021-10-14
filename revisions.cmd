@@ -646,6 +646,17 @@ and I note that I had no control over how the request for it was worded.
   [NO] We are parametrising, with {{r}} (the independent variable)
   playing the role of time.
   ----
+
+1.
+  """"{.examiner}
+  [Page~56, Paragraph~1, after~(4.49)]
+  does [{{κ}} have the same sign changes as the curvature]?
+  Why not just use the curvature with the outward normal?
+  """"
+  ----
+  [NO] Yes.
+  And we avoid the usual curvature because it contains a horrible power of~3/2.
+  ----
 ++++++++++++++++
 
 
