@@ -305,7 +305,7 @@ and I note that I had no control over how the request for it was worded.
   [...] and the <del>{{x}}-axis</del><ins>line of symmetry~{{y}} = 0</ins>.
   """"
   ----
-  See b<https://github.com/yawnoc/phd-thesis/commit/11b2439>
+  See b<https://github.com/yawnoc/phd-thesis/commit/6b393fd>
   for the changes to the LaTeX source.
   ----
 ++++++++++++++++
@@ -615,7 +615,7 @@ and I note that I had no control over how the request for it was worded.
   so that everything is positive.
   """"
   ----
-  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/78e09a1>
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/9c391b0>
   for the changes to Figure~4.12.
   ----
   ''''
@@ -631,7 +631,7 @@ and I note that I had no control over how the request for it was worded.
   ----
   For consistency, I have also done the same
   for 'Relative error' in Figure~5.10 [Page~75];
-  see b<https://github.com/yawnoc/phd-thesis/commit/4d19232>.
+  see b<https://github.com/yawnoc/phd-thesis/commit/0e729fa>.
   ----
   ''''
   |^
@@ -698,7 +698,7 @@ and I note that I had no control over how the request for it was worded.
   Suggest remark about why the curves in Figure~7.17 are not smooth.
   """"
   ----
-  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/466ab1d>
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/2c5461c>
   for the changes to the LaTeX source. [Page~122]:
   ----
   """"{.thesis}
@@ -720,7 +720,7 @@ and I note that I had no control over how the request for it was worded.
   but not sufficient to eliminate the 1/{{r}} singularity at {{r}} = 0.
   """"
   ----
-  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/7cac581>
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/4e424e1>
   for the changes to the LaTeX source. [Page~135, Paragraph~2]:
   ----
   """"{.thesis}
