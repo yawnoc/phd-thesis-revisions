@@ -654,7 +654,7 @@ and I note that I had no control over how the request for it was worded.
   Why not just use the curvature with the outward normal?
   """"
   ----
-  [NO] Yes.
+  [NO] Yes, {{κ}} has the same sign changes as the curvature.
   And we avoid the usual curvature because it contains a horrible power of~3/2.
   ----
 
