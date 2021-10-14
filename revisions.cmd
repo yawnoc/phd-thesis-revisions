@@ -494,7 +494,7 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO]
   For improvements to the wording, see the changes made in reponse to
-  [Examiner~1 > Viva Voce > Suggestion~1](#busy).
+  [Examiner~1 \> Viva Voce \> Suggestion~1](#busy).
   ----
 
 1.
