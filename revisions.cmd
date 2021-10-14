@@ -738,8 +738,10 @@ and I note that I had no control over how the request for it was worded.
 
 ++++++++++++++++{.revisions}
 1.
+  ----
   Fixed Figure~C.2 vertical axis range
   so that the bottom is exactly {{T}} = 0:
+  ----
   ''''
   |^
     ==
@@ -750,4 +752,7 @@ and I note that I had no control over how the request for it was worded.
       , ![Figure C.2 before](conformal_triangle-known-solution-BEFORE.png)
       , ![Figure C.2 after](conformal_triangle-known-solution-AFTER.png)
   ''''
+  ----
+  See b<https://github.com/yawnoc/phd-thesis/commit/fda4ebd>.
+  ----
 ++++++++++++++++
