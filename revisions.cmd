@@ -657,6 +657,18 @@ and I note that I had no control over how the request for it was worded.
   [NO] Yes.
   And we avoid the usual curvature because it contains a horrible power of~3/2.
   ----
+
+1.
+  """"{.examiner}
+  [Page~56, Paragraph~2, before~(4.50)]
+  is [{{L}} = log~{{r}}] really for brevity?
+  Seems like more work.
+  If need by just put (4.51) and then have L defined there.
+  """"
+  ----
+  [NO] Yes it is for brevity. {{L}}~appears another 9~times.
+  And having the definition separate from~(4.51) improves readability.
+  ----
 ++++++++++++++++
 
 
