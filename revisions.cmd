@@ -617,6 +617,25 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] Obvious from the context.
   ----
+
+1.
+  """"{.examiner}
+  ----
+  [Page~54, unnumbered equation, after~(4.37)]
+  I'm not sure I really get this.
+  What does convexity at the point of tangency mean
+  when locally it's quadratic?
+  ----
+  ----
+  Also it looks like you're just limiting the incoming slope
+  to be less than the circle.
+  Why it this?
+  ----
+  """"
+  ----
+  [NO] {{ξ}} = 0 is the circle, not the tangent line,
+  as explained in the viva voce.
+  ----
 ++++++++++++++++
 
 
