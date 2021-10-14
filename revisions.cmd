@@ -551,6 +551,19 @@ and I note that I had no control over how the request for it was worded.
   [NO] I do not claim there is a single maximum because there is a maximum.
   The single maximum follows because the sign change is the only sign change.
   ----
+
+1.
+  """"{.examiner}
+  [Page~52, first line]
+  Is ["neither of these are limit cycles"] obvious? It's not clear to me.
+  If it's just a repeat of the previous exercise
+  then maybe state that doing this would show these are not limit cycles.
+  """"
+  ----
+  [NO] Intuitively one would expect the limit cycles to disappear
+  when {{A}} no longer takes the critical value.
+  In any case, the sought exercise appears on the next page (Section~4.4.1).
+  ----
 ++++++++++++++++
 
 
