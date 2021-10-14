@@ -636,6 +636,16 @@ and I note that I had no control over how the request for it was worded.
   [NO] {{ξ}} = 0 is the circle, not the tangent line,
   as explained in the viva voce.
   ----
+
+1.
+  """"{.examiner}
+  [Page~56, first line]
+  [[[r]]''] isn't really acceleration...be careful with that terminology.
+  """"
+  ----
+  [NO] We are parametrising, with {{r}} (the independent variable)
+  playing the role of time.
+  ----
 ++++++++++++++++
 
 
