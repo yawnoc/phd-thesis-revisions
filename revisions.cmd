@@ -669,6 +669,20 @@ and I note that I had no control over how the request for it was worded.
   [NO] Yes it is for brevity. {{L}}~appears another 9~times.
   And having the definition separate from~(4.51) improves readability.
   ----
+
+1.
+  """"{.examiner}
+  [Page~56, after~(4.54)]
+  This analysis makes more mathematical sense than what you did above.
+  Do you need the earlier piece [Page~54]?
+  """"
+  ----
+  [NO] Absolutely. It makes sense to check (via the earlier piece)
+  that convexity is even possible,
+  before we pass to a global curvature analysis.
+  If convexity were not possible,
+  then the global analysis would be a waste of time.
+  ----
 ++++++++++++++++
 
 
