@@ -578,6 +578,15 @@ and I note that I had no control over how the request for it was worded.
   [...] the only convex domain is the trivial disk
   whose boundary is the circle {{r}} = {{r}}{flat}.
   """"
+
+1.
+  """"{.examiner}
+  [Page~52, Paragraph~3, middle]
+  reword ["spiralling in forever towards the singularity"]
+  """"
+  ----
+  [NO] The trajectory in question spirals in, forever, towards the singularity.
+  ----
 ++++++++++++++++
 
 
