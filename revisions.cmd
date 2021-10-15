@@ -781,6 +781,20 @@ and I note that I had no control over how the request for it was worded.
   The inner viable domain is like the seed,
   which is positioned off-centre in relation to the flesh.
   ----
+
+1.
+  ----
+  [Page~71, first line]
+  ----
+  """"{.thesis}
+  The nature of the <del>up to four</del> critical terminal points
+  <del>that exist</del> can be determined by inspecting Figure~5.5.
+  [...]
+  """"
+  ----
+  [NO] The suggested edit removes information that does not appear
+  elsewhere in the text.
+  ----
 ++++++++++++++++
 
 
