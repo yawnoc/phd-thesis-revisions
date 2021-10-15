@@ -869,6 +869,16 @@ and I note that I had no control over how the request for it was worded.
   but that they also have the property
   of being "curves along which [...] (6.10)~holds".
   ----
+
+1.
+  """"{.examiner}
+  [Page~86, last paragraph, second-last line]:
+  almost? What isn't arbitrary about [an almost arbitrary fashion]?
+  """"
+  ----
+  [NO] The "only restriction", which is described directly afterwards
+  in the clause after the semicolon.
+  ----
 ++++++++++++++++
 
 
