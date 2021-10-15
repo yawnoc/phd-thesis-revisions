@@ -891,6 +891,22 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] Most means highly, or very.
   ----
+
+1.
+  ----
+  [Page~91, Paragraph~1]:
+  ----
+  """"{.thesis}
+  Away from {{x}} = 0 we
+  <del>simply let Mathematica's default meshing algorithm do its work</del>\
+  <ins class="examiner">use Mathematica's default meshing algorithm</ins>,
+  resulting in [...].
+  """"
+  ----
+  [NO] The suggested edit changes the meaning.
+  We do not need to do anything;
+  it is Mathematica's algorithm that does the work.
+  ----
 ++++++++++++++++
 
 
