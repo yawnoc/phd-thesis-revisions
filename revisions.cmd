@@ -1107,6 +1107,28 @@ and I note that I had no control over how the request for it was worded.
   [NO] Exactly what it says.
   The groove angle~{{φ}} can't be too small or too big.
   ----
+
+1.
+  ----
+  [Page~127, last paragraph]
+  ----
+  """"{.thesis}
+  [...] this is because each groove is <del>itself</del>
+  a moderate wedge admitting a locally planar height rise.
+  """"
+  ----
+  [NO] Per Wiktionary b<https://en.wiktionary.org/wiki/itself>:
+  ----
+  """"
+  ### Pronoun ###
+  __itself__ ([...])
+  ++++
+  1. [...]
+  2. (_emphatic_) it;
+     _used to intensify the subject,
+     especially to emphasize that it is the only participant in the predicate_
+  ++++
+  """"
 ++++++++++++++++
 
 
