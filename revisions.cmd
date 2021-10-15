@@ -695,6 +695,20 @@ and I note that I had no control over how the request for it was worded.
   {{r}} ≤ {{r}}{sharp} is (correctly) a disk.
   {{r}} = {{r}}{sharp} would be a circle.
   ----
+
+1.
+  """"{.examiner}
+  [Page~58, Figure~4.12 and Paragraph~2]
+  It looks like the error is highest at the inner circle
+  where the log condition is applied.
+  Presumably a smaller inner radius will correct this.
+  """"
+  ----
+  [NO] This is a misreading of Figure~4.12;
+  note that the plotted relative error is negative.
+  The relative error figure has now been made positive,
+  per [Examiner~2 \> Viva Voce \> Suggestion~2](#absolute).
+  ----
 ++++++++++++++++
 
 
@@ -755,7 +769,7 @@ and I note that I had no control over how the request for it was worded.
   compared to the {boundary tracing + verify error} approach.
   ----
 
-3.
+3.{#absolute}
   """"{.examiner}
   [Page~58]
   Suggest taking absolute value of 'Relative error' in Figure~4.12
