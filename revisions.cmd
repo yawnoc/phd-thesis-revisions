@@ -1045,6 +1045,15 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The suggested edit changes the meaning.
   ----
+
+1.
+  """"{.examiner}
+  [Page~111, Paragraph~1, second sentence]
+  run-on awkward sentence
+  """"
+  ----
+  [NO] The commas in the sentence clearly delineate the three clauses.
+  ----
 ++++++++++++++++
 
 
