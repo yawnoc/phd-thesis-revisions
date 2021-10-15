@@ -1064,6 +1064,16 @@ and I note that I had no control over how the request for it was worded.
   [NO] Sufficient context is provided by the chapter heading
   and the lead paragraph (at the top of the same page).
   ----
+
+1.
+  """"{.examiner}
+  [Page~112, Paragraph~2]
+  why [is there a large discrepancy]?
+  """"
+  ----
+  [NO] This is addressed in the very next paragraph,
+  "[...] Further investigation shows [...]".
+  ----
 ++++++++++++++++
 
 
