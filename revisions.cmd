@@ -709,6 +709,29 @@ and I note that I had no control over how the request for it was worded.
   The relative error figure has now been made positive,
   per [Examiner~2 \> Viva Voce \> Suggestion~2](#absolute).
   ----
+
+1.
+  """"{.examiner}
+  [Page~58, Paragraph~2]
+  how many [triangular elements] is it?
+  State the exact value [instead of "some~400"].
+  """"
+  ----
+  [NO] The main point of boundary tracing is not the numerics.
+  The exact number is irrelevant.
+  Even in numerics papers, inexact counts are given.
+  For example:
+  ----
+  """"
+  The final mesh consisted of about 18000 elements.
+  """"
+  ----
+  Scott, Sander, \&~Norbury (2005).
+  Computation of capillary surfaces for the Laplace--Young equation.
+  '''The Quarterly Journal of Mechanics and Applied Mathematics''',
+  58~(2), 201--212.
+  b<https://doi.org/10.1093/qjmamj/hbi005>
+  ----
 ++++++++++++++++
 
 
