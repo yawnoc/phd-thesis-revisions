@@ -820,6 +820,31 @@ and I note that I had no control over how the request for it was worded.
      an unstructured triangular mesh more reproducible, and
   2. All code is available at b<https://github.com/yawnoc/phd-code>.
   ++++
+
+1.
+  ----
+  [Page~86, Paragraph~2]:
+  ----
+  """"{.thesis}
+  <del>\
+    The known solution~(6.11) is insufficiently simple in form
+    for the boundary tracing ODE to be analytically solvable
+    under the coordinate parametrisations~{{y}} = {{y}}({{x}})
+    and~{{x}} = {{x}}({{y}}).\
+  </del>\
+  <ins>\
+    The boundary tracing ODE cannot be analytically solved
+    for either parameterizations y=y(x) or x=x(y)
+    using the known solution (6.11).\
+  </ins>
+  [...]
+  """"
+  ----
+  [NO] The suggested version is awkward.
+  Initally it reads as "[...] solved for [...]",
+  and it takes a second reading to correctly parse it as
+  "[...] solved, for [...]".
+  ----
 ++++++++++++++++
 
 
