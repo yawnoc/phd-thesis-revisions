@@ -1013,6 +1013,18 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The suggested edit removes meaning.
   ----
+
+1.
+  """"{.examiner}
+  [Page~110, Paragraph~1]
+  ["subsidiarily" is an] awkward choice of words
+  """"
+  ----
+  [NO] It is not.
+  The numerical procedure was auxiliary (or supplemental)
+  to the asymptotic procedure.
+  Hence it was "used subsidiarily".
+  ----
 ++++++++++++++++
 
 
