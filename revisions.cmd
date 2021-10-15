@@ -908,6 +908,19 @@ and I note that I had no control over how the request for it was worded.
   We do not need to do anything;
   it is Mathematica's algorithm that does the work.
   ----
+
+1.
+  """"{.examiner}
+  [Page~92, Figure~6.11]
+  why not benchmark on the wedge problem
+  for which you do have an analytical solution.
+  You could show agreement for gamma near Pi/2 and then veer away.
+  """"
+  ----
+  [NO] Because no analytical solution exists for the wedge problem.
+  If it is the linearised problem that is being referred to,
+  that problem is, well, linear; it will hardly challenge a nonlinear solver.
+  ----
 ++++++++++++++++
 
 
