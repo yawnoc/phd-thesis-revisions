@@ -732,6 +732,16 @@ and I note that I had no control over how the request for it was worded.
   58~(2), 201--212.
   b<https://doi.org/10.1093/qjmamj/hbi005>
   ----
+
+1.
+  """"{.examiner}
+  [Page~60, Paragraph~1, last line]
+  [Should be an upper-case] T\_sharp
+  """"
+  ----
+  [NO] Lower-case {{t}}{sharp} is correct, since it is a Celsius temperature.
+  Recall that {{t}}/°C = {{T}}/K − 273.15 [footnote on Page~26].
+  ----
 ++++++++++++++++
 
 
