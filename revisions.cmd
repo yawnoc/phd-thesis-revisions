@@ -1054,6 +1054,16 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The commas in the sentence clearly delineate the three clauses.
   ----
+
+1.
+  """"{.examiner}
+  [Page~111, Paragraph~2, first sentence]
+  Add context. You have been solving this in the last chapter as well.
+  """"
+  ----
+  [NO] Sufficient context is provided by the chapter heading
+  and the lead paragraph (at the top of the same page).
+  ----
 ++++++++++++++++
 
 
