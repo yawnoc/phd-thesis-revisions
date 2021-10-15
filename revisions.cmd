@@ -770,7 +770,7 @@ and I note that I had no control over how the request for it was worded.
 
 1.
   """"{.examiner}
-  [Page~69, item~1]
+  [Page~69, Item~1]
   I'm not sure what [avocado-like moat] means.
   Is it shaped like an avocado?
   What is the 2D avocado equivalent?
@@ -997,6 +997,21 @@ and I note that I had no control over how the request for it was worded.
   I see nothing informal.
   Neither the term "conjure", nor "yet" (meaning "still"),
   nor the rhetorical question are informal.
+  ----
+
+1.
+  [Page~108, Item~3]
+  """"{.thesis}
+  ++++{start=3}
+  3.
+    For {{α}} greater than about 45° (Figure~6.28c)
+    bulging likewise does not occur,
+    and there is a <del>much-welcomed</del> improvement
+    in the spread of the rounding curves.
+  ++++
+  """"
+  ----
+  [NO] The suggested edit removes meaning.
   ----
 ++++++++++++++++
 
