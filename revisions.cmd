@@ -710,7 +710,7 @@ and I note that I had no control over how the request for it was worded.
   per [Examiner~2 \> Viva Voce \> Suggestion~2](#absolute).
   ----
 
-1.
+1.{#exact}
   """"{.examiner}
   [Page~58, Paragraph~2]
   how many [triangular elements] is it?
@@ -804,6 +804,22 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~23](#acceleration).
   ----
+
+1.
+  """"{.examiner}
+  [Page~75, Paragraph~2]
+  again state how many exactly [instead of "approximately~500"].
+  Your work should be reproducible.
+  """"
+  ----
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~29](#exact).
+  On reproducibility:
+  ----
+  ++++
+  1. Knowing the exact number of mesh elements doesn't make
+     an unstructured triangular mesh more reproducible, and
+  2. All code is available at b<https://github.com/yawnoc/phd-code>.
+  ++++
 ++++++++++++++++
 
 
