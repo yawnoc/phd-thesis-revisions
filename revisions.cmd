@@ -938,6 +938,19 @@ and I note that I had no control over how the request for it was worded.
   (because the angles add to more than 90°).
   This is far from obvious if we instead write ({{α}}, {{γ}}) = (2π/9, 11π/36).
   ----
+
+1.
+  """"{.examiner}
+  [Page~98, Figure~6.17 etc.]
+  It is not clear you need these figures.
+  At immediate glance it's not clear how they are different
+  from the figures you are referencing.
+  I would just reference the old figures.
+  """"
+  ----
+  [NO] The figures make it clear that this is a separate problem,
+  even though we get qualitatively similar results.
+  ----
 ++++++++++++++++
 
 
