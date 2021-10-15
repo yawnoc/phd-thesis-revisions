@@ -1000,7 +1000,7 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~108, Item~3]
+  [Page~108, Item~3]:
   """"{.thesis}
   ++++{start=3}
   3.
@@ -1024,6 +1024,26 @@ and I note that I had no control over how the request for it was worded.
   The numerical procedure was auxiliary (or supplemental)
   to the asymptotic procedure.
   Hence it was "used subsidiarily".
+  ----
+
+1.
+  ----
+  [Page~110, Paragraph~2]:
+  ----
+  """"{.thesis}
+  [...] It is this crucial observation which allows [...],
+  <del>\
+    thus making numerical boundary tracing
+    more than just a pointless exercise\
+  </del>
+  <ins class="examiner">\
+    thus making the boundary tracing technique a valuable alternative
+    to full numerical solutions\
+  </ins>\
+  . [...]
+  """"
+  ----
+  [NO] The suggested edit changes the meaning.
   ----
 ++++++++++++++++
 
