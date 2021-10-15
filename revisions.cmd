@@ -638,7 +638,7 @@ and I note that I had no control over how the request for it was worded.
   as explained in the viva voce.
   ----
 
-1.
+1.{#acceleration}
   """"{.examiner}
   [Page~56, first line]
   [[[r]]''] isn't really acceleration...be careful with that terminology.
@@ -794,6 +794,15 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The suggested edit removes information that does not appear
   elsewhere in the text.
+  ----
+
+1.
+  """"{.examiner}
+  [Page~73, equation~(5.46)]
+  same comments here about "velocity" and "acceleration"...not proper terms
+  """"
+  ----
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~23](#acceleration).
   ----
 ++++++++++++++++
 
