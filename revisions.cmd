@@ -767,6 +767,20 @@ and I note that I had no control over how the request for it was worded.
   ----
   The term _singularity_ is therefore fully appropriate.
   ----
+
+1.
+  """"{.examiner}
+  [Page~69, item~1]
+  I'm not sure what [avocado-like moat] means.
+  Is it shaped like an avocado?
+  What is the 2D avocado equivalent?
+  """"
+  ----
+  [NO] The non-viable domain is shaped
+  like the flesh of an avocado that has just been opened.
+  The inner viable domain is like the seed,
+  which is positioned off-centre in relation to the flesh.
+  ----
 ++++++++++++++++
 
 
