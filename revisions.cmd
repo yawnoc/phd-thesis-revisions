@@ -921,6 +921,23 @@ and I note that I had no control over how the request for it was worded.
   If it is the linearised problem that is being referred to,
   that problem is, well, linear; it will hardly challenge a nonlinear solver.
   ----
+
+1.
+  """"{.examiner}
+  [Page~95, Figure~6.14]
+  Consider throughout consistently using degrees or radians.
+  The latter is better.
+  """"
+  ----
+  [NO]
+  For general equations I have consistently used radians,
+  (e.g. for regime inequalities such as {{α}} \< π/2 − {{γ}}).
+  In specific numerical examples I have used degrees for readability.
+  For example, if ({{α}}, {{γ}}) = (40°, 55°) then we can immediately see
+  that it belongs to the moderate regime
+  (because the angles add to more than 90°).
+  This is far from obvious if we instead write ({{α}}, {{γ}}) = (2π/9, 11π/36).
+  ----
 ++++++++++++++++
 
 
