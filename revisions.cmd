@@ -951,6 +951,17 @@ and I note that I had no control over how the request for it was worded.
   [NO] The figures make it clear that this is a separate problem,
   even though we get qualitatively similar results.
   ----
+
+1.
+  """"{.examiner}
+  [Page~100, before~(6.44)]
+  [{{ξ}} = δ{{ξ}} is] awkward.
+  Why not just use one variable and indicate it is small like you did before?
+  """"
+  ----
+  [NO] Because here we have many occurrences of "evaluation at {{ξ}} = 0".
+  It would be confusing to simultaneously have {{ξ}} be the small parameter.
+  ----
 ++++++++++++++++
 
 
