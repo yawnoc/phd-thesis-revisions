@@ -879,6 +879,18 @@ and I note that I had no control over how the request for it was worded.
   [NO] The "only restriction", which is described directly afterwards
   in the clause after the semicolon.
   ----
+
+1.
+  ----
+  [Page~87, Paragraph~2]:
+  ----
+  """"{.thesis}
+  While the domains produced in Figure 6.5 are <del>most</del> interesting,
+  [...].
+  """"
+  ----
+  [NO] Most means highly, or very.
+  ----
 ++++++++++++++++
 
 
