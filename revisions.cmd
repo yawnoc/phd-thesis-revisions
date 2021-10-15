@@ -742,6 +742,31 @@ and I note that I had no control over how the request for it was worded.
   [NO] Lower-case {{t}}{sharp} is correct, since it is a Celsius temperature.
   Recall that {{t}}/°C = {{T}}/K − 273.15 [footnote on Page~26].
   ----
+
+1.
+  """"{.examiner}
+  [Page~64, after~(5.11)]
+  Consider rewording this so that v=-infinity corresponds to x=-a
+  and v=+infinity corresponds to x=a.
+  These are not singularities geometrically,
+  just singular from the source/sink perspective.
+  """"
+  ----
+  [NO] While they are not singularities geometrically,
+  the whole point of Section~5.1 is that we have
+  derived the geometry by starting from equal and opposite sources.
+  From Page~63:
+  ----
+  """"{.thesis}
+  While it would be well to introduce the bipolar coordinate system
+  before writing down the known solution,
+  a better understanding of the physics is obtained
+  by first writing down the known solution
+  and then observing how bipolar coordinates arise as a result.
+  """"
+  ----
+  The term _singularity_ is therefore fully appropriate.
+  ----
 ++++++++++++++++
 
 
