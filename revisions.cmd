@@ -832,7 +832,7 @@ and I note that I had no control over how the request for it was worded.
     under the coordinate parametrisations~{{y}} = {{y}}({{x}})
     and~{{x}} = {{x}}({{y}}).\
   </del>\
-  <ins>\
+  <ins class="examiner">\
     The boundary tracing ODE cannot be analytically solved
     for either parameterizations y=y(x) or x=x(y)
     using the known solution (6.11).\
@@ -852,7 +852,8 @@ and I note that I had no control over how the request for it was worded.
   ----
   """"{.thesis}
   More interesting of course are the new boundaries obtained;
-  by construction, these <del>also are</del><ins>are also</ins> curves
+  by construction, these <del>also are</del>\
+  <ins class="examiner">are also</ins> curves
   along which the boundary condition~(6.10) holds.
   """"
   ----
