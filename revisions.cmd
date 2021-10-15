@@ -1095,6 +1095,18 @@ and I note that I had no control over how the request for it was worded.
   while "hitherto" is too archaic.
   But "tack" (for "direction" or "course of action") is an old word.
   ----
+
+1.
+  """"{.examiner}
+  [Page~127, first line]
+  what does
+    ["Note that the groove angle~{{φ}} cannot be arbitrarily small or large"]
+  mean?
+  """"
+  ----
+  [NO] Exactly what it says.
+  The groove angle~{{φ}} can't be too small or too big.
+  ----
 ++++++++++++++++
 
 
