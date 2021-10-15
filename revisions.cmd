@@ -1084,6 +1084,17 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] It tells the reader that the results of this section are precious.
   ----
+
+1.
+  """"{.examiner}
+  [Page~123, Paragraph~1, last sentence]
+  awkward sentence
+  """"
+  ----
+  [NO] Perhaps the implication is that "change tack" is too modern
+  while "hitherto" is too archaic.
+  But "tack" (for "direction" or "course of action") is an old word.
+  ----
 ++++++++++++++++
 
 
