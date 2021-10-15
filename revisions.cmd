@@ -845,6 +845,30 @@ and I note that I had no control over how the request for it was worded.
   and it takes a second reading to correctly parse it as
   "[...] solved, for [...]".
   ----
+
+1.
+  ----
+  [Page~86, last paragraph, second line]:
+  ----
+  """"{.thesis}
+  More interesting of course are the new boundaries obtained;
+  by construction, these <del>also are</del><ins>are also</ins> curves
+  along which the boundary condition~(6.10) holds.
+  """"
+  ----
+  [NO] The suggested edit changes the meaning.
+  ----
+  ----
+  The original version says that
+  we already have "curves along which [...] (6.10)~holds",
+  and that the new boundaries also have this property.
+  ----
+  ----
+  The suggested version says that we already have
+  new boundaries with certain unnamed properties,
+  but that they also have the property
+  of being "curves along which [...] (6.10)~holds".
+  ----
 ++++++++++++++++
 
 
