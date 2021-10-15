@@ -975,6 +975,29 @@ and I note that I had no control over how the request for it was worded.
   with the coefficient inversely proportional
   to the tangential derivative~∂{{T}}/∂{{η}} (which is small).
   ----
+
+1.
+  """"{.examiner}
+  [Page~102, Paragraph~1]
+  This opening paragraph is awkward in its informal approach
+  (contrasting much of the other text).
+  You should consider rewriting
+  to better motivate the multiple corner rounding analysis.
+  """"
+  ----
+  [NO] Here is the paragraph in question:
+  ----
+  """"{.thesis}
+  Unless we can conjure up multiple roundings of the corner
+  from the same numerical solution,
+  the objection raised earlier will yet stand:
+  Why bother with boundary tracing at all?
+  """"
+  ----
+  I see nothing informal.
+  Neither the term "conjure", nor "yet" (meaning "still"),
+  nor the rhetorical question are informal.
+  ----
 ++++++++++++++++
 
 
