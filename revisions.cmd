@@ -962,6 +962,19 @@ and I note that I had no control over how the request for it was worded.
   [NO] Because here we have many occurrences of "evaluation at {{ξ}} = 0".
   It would be confusing to simultaneously have {{ξ}} be the small parameter.
   ----
+
+1.
+  """"{.examiner}
+  [Page~101, equation~(6.56)]
+  it's not clear what the value of this rate is.
+  A brief discussion or clarification would be good.
+  """"
+  ----
+  [NO] We immediately see that the rounding curve
+  makes an exponentially fast approach,
+  with the coefficient inversely proportional
+  to the tangential derivative~∂{{T}}/∂{{η}} (which is small).
+  ----
 ++++++++++++++++
 
 
