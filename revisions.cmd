@@ -1074,6 +1074,16 @@ and I note that I had no control over how the request for it was worded.
   [NO] This is addressed in the very next paragraph,
   "[...] Further investigation shows [...]".
   ----
+
+1.
+  """"{.examiner}
+  [Page~119, Paragraph~2]
+  I would avoid using bleak...it is what it is,
+  but this sets up the section as pointless.
+  """"
+  ----
+  [NO] It tells the reader that the results of this section are precious.
+  ----
 ++++++++++++++++
 
 
