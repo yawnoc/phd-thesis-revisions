@@ -323,6 +323,16 @@ and I note that I had no control over how the request for it was worded.
 
 ++++++++++++++++{.revisions}
 1.
+  """"{.examiner}
+  [Page~3, first top-level paragraph]
+  where does ["as an [...] ODE [...], and integrate"] come from?
+  """"
+  ----
+  [NO] This is just a broad statement of how boundary tracing works.
+  It doesn't come from anywhere.
+  ----
+
+1.
   [Page~8, Paragraph~2]:
   """"{.thesis}
   [...] we must remember that the small-slope assumption ([[del]]{{T}})² ≪ 1
@@ -802,7 +812,7 @@ and I note that I had no control over how the request for it was worded.
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~23](#acceleration).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~24](#acceleration).
   ----
 
 1.
@@ -812,7 +822,7 @@ and I note that I had no control over how the request for it was worded.
   Your work should be reproducible.
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~29](#exact).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~30](#exact).
   On reproducibility:
   ----
   ++++
