@@ -1146,6 +1146,20 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The suggested edit removes meaning.
   ----
+
+1.
+  ----
+  [Page~132, second paragraph, first sentence]:
+  ----
+  """"{.thesis}
+  The transformation~(8.2) \&~(8.3)
+  <del>is most general, allowing</del><ins class="examiner">allows</ins>
+  the walls of the wedge or cusp to be curved.
+  [...]
+  """"
+  ----
+  [NO] The suggested edit removes meaning.
+  ----
 ++++++++++++++++
 
 
