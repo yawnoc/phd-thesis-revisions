@@ -676,7 +676,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   In any case, the sought exercise appears on the next page (Section~4.4.1).
   ----
 
-23.
+23.{#most-severe}
   ----
   [Page~52, Paragraph~3, first line]:
   ----
@@ -684,7 +684,9 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   reword ["this restriction is most severe"]. Do you mean it's impossible?
   """"
   ----
-  [NO] Not impossible, but hardly possible. At the end of that paragraph:
+  [NO] Not impossible, but hardly possible.
+  Most means very.
+  At the end of that paragraph:
   ----
   """"{.thesis}
   [...] the only convex domain is the trivial disk
@@ -1026,7 +1028,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   in the clause following the semicolon.
   ----
 
-44.{#most}
+44.{#most-interesting}
   ----
   [Page~87, Paragraph~2]:
   ----
@@ -1335,9 +1337,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [YES] See [Examiner~2 \> Viva Voce \> Suggestion~5](#non-smooth)
   ----
 
-1.
+65.
+  ----
+  [Page~123, Paragraph~1, last sentence]:
+  ----
   """"{.examiner}
-  [Page~123, Paragraph~1, last sentence]
   awkward sentence
   """"
   ----
@@ -1346,9 +1350,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   But "tack" (for "direction" or "course of action") is an old word.
   ----
 
-1.
+66.
+  ----
+  [Page~127, first line]:
+  ----
   """"{.examiner}
-  [Page~127, first line]
   what does
     ["Note that the groove angle~{{φ}} cannot be arbitrarily small or large"]
   mean?
@@ -1356,9 +1362,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO] Exactly what it says.
   The groove angle~{{φ}} can't be too small or too big.
+  The text then goes on to give the bounds {{φ}} ≥ arccos(1/{{ρ}}{0})
+  and {{φ}} < {{γ}}{dot} with explanation.
   ----
 
-1.
+67.
   ----
   [Page~127, last paragraph]:
   ----
@@ -1381,7 +1389,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ++++
   """"
 
-1.
+68.
   ----
   [Page~128, last paragraph]:
   ----
@@ -1395,6 +1403,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] The suggested edit removes meaning.
+  Those questions are not ones that I can address as an applied mathematician.
   ----
 
 1.
@@ -1409,6 +1418,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] The suggested edit removes meaning.
+  The examiner seems to dislike (or be unfamiliar with)
+  the use of "most" to mean "highly" or "very";
+  see [Suggestion~23](#most-severe) and [Suggestion~44](#most-interesting)
+  above.
   ----
 
 1.
