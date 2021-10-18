@@ -1197,6 +1197,20 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   as explained in the viva voce.
   ----
 
+55.
+  ----
+  [Page~104, Figure~6.23]:
+  ----
+  """"{.examiner}
+  Since you need to take gamma\_dot\>gamma
+  does it make sense to choose a very small gamma for the computations?
+  """"
+  ----
+  [NO] The treatment here covers all values of~{{γ}} simultaneously,
+  as explained in the viva voce.
+  The figures just show a particular example.
+  ----
+
 1.
   [Page~108, Item~3]:
   """"{.thesis}
