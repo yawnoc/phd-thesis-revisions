@@ -1127,6 +1127,7 @@ and I note that I had no control over how the request for it was worded.
   2. (_emphatic_) it;
      _used to intensify the subject,
      especially to emphasize that it is the only participant in the predicate_
+  3. [...]
   ++++
   """"
 ++++++++++++++++
