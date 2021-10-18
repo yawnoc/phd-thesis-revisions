@@ -1537,6 +1537,22 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   for which the {{r}} = 0 singularity has been removed.
   Such variables are consistently marked with a tilde.
   ----
+
+77.
+  ----
+  [Page~138, first line]
+  ----
+  """"{.thesis}
+  We now proceed to
+  <del>actually performing</del><ins class="examiner">the</ins>
+  boundary tracing. [...]
+  """"
+  ----
+  [NO] The suggested edit removes meaning.
+  In the previous Section~8.2.1 we did the setup for boundary tracing.
+  Now we are actually doing the boundary tracing.
+  Hence "actually performing".
+  ----
 ++++++++++++++++
 
 
