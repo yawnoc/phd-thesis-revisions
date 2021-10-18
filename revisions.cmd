@@ -374,6 +374,19 @@ and I note that I had no control over how the request for it was worded.
 
 1.
   """"{.examiner}
+  [Page~10]
+  [...] Perhaps adding an example with figure
+  of where boundary tracing was used to success might help.
+  [...] A concrete example or further explanation of this
+  would help set the stage for the importance of this work.
+  """"
+  ----
+  [NO] Figure~1.7 and its related paragraph
+  already do this (an example of prior boundary tracing).
+  ----
+
+1.
+  """"{.examiner}
   ----
   [Page~14, unnumbered equation]
   [...] I suggest getting rid of the part before you introduce u(s) and v(s).
@@ -823,7 +836,7 @@ and I note that I had no control over how the request for it was worded.
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~25](#acceleration).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~26](#acceleration).
   ----
 
 1.
@@ -833,7 +846,7 @@ and I note that I had no control over how the request for it was worded.
   Your work should be reproducible.
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~31](#exact).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~32](#exact).
   On reproducibility:
   ----
   ++++
