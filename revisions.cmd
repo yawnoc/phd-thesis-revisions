@@ -1472,6 +1472,19 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   for the purposes of doing numerics.
   This is not merely a re-labelling of the coordinates.
   ----
+
+73.
+  ----
+  [Page~133, after~(8.11)]:
+  ----
+  """"{.examiner}
+  what do you mean [by "𝕟~is to~𝔻  as [[n]]~is to~[[del]]"]?
+  Explicitly write it out.
+  """"
+  ----
+  [NO] I mean that 𝕟~is the same counterpart to the 𝔻~operator
+  that the physical normal vector~[[n]] is to the physical [[del]]~operator.
+  ----
 ++++++++++++++++
 
 
