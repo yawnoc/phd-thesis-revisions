@@ -415,6 +415,20 @@ and I note that I had no control over how the request for it was worded.
 
 1.
   """"{.examiner}
+  [Page~19, first paragraph]
+  It doesn't hurt to remind the reader of the problem here
+  so that they don't have to flip back and forth.
+  """"
+  ----
+  [NO] The conduction--radiation problem is self-explanatory
+  (conduction in the interior and radiation on the boundary),
+  and I have used back references to earlier equations
+  in order to keep the lead paragraph free of display equations
+  (as I have consistently done for all chapters).
+  ----
+
+1.
+  """"{.examiner}
   [Page~19, Figure~3.1]
   I would rewrite this section a bit by setting up the problem Txx=0
   with T=constant on x=a*lambda and radiation condition on x=lambda.
@@ -836,7 +850,7 @@ and I note that I had no control over how the request for it was worded.
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~26](#acceleration).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~27](#acceleration).
   ----
 
 1.
@@ -846,7 +860,7 @@ and I note that I had no control over how the request for it was worded.
   Your work should be reproducible.
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~32](#exact).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~33](#exact).
   On reproducibility:
   ----
   ++++
