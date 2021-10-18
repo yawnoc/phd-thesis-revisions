@@ -1485,6 +1485,31 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] I mean that 𝕟~is the same counterpart to the 𝔻~operator
   that the physical normal vector~[[n]] is to the physical [[del]]~operator.
   ----
+
+74.
+  ----
+  [Page~133, last paragraph]:
+  ----
+  """"{.examiner}
+  Not sure what you mean here.
+  n and grad have physical meaning regardless of the coordinate system.
+  You should be able to transform it to have such a meaning
+  in polar coordinates as well.
+  """"
+  ----
+  [NO] The components of the gradient operator ([[del]]) in polar coordinates
+  are~∂/∂{{r}} (radial) and~(1/{{r}})(∂/∂{{ϕ}}) (azimuthal).
+  Note in particular the scale factor of~1/{{r}} in the azimuthal component,
+  which ensures it has the correct dimensions (reciprocal length)
+  for a physical interpretation.
+  ----
+  ----
+  On the other hand, the components of double-struck~𝔻
+  are~∂/∂{{r}} (radial) and~∂/∂{{ϕ}} (azimuthal).
+  Note that the azimuthal component has no 1/{{r}}~factor
+  (because we need things to be formally rectangular).
+  The 𝔻~operator is therefore unphysical.
+  ----
 ++++++++++++++++
 
 
