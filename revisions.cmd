@@ -88,6 +88,9 @@
     break-inside: avoid;
     margin-top: 2em;
   }
+  .revisions > li:first-child {
+    margin-top: 0em;
+  }
   h1 + ul {
     margin-top: 1em;
   }
@@ -457,8 +460,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   such issues are avoided in the existing presentation.
   ----
 
-1.
+9.
+  ----
   [Page~21, Paragraph~1, after~(3.15)]:
+  ----
   """"{.thesis}
   [...] consists of the <del>infinite</del><ins class="examiner">finite</ins>
   strip 0 ≤ {{x}} ≤ 1.
@@ -467,8 +472,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] The strip is infinite in the {{y}}-direction.
   ----
 
-1.
+10.
+  ----
   [Page~21, Paragraph~2, before~(3.16)]:
+  ----
   """"{.examiner}
   avoid this kind of subjective language ["boring"] in the thesis :).
   """"
@@ -478,8 +485,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   but less highbrow.
   ----
 
-1.
+11.
+  ----
   [Page~21, equation~(3.16)]:
+  ----
   """"{.examiner}
   why not use the arclength formulation here. \|grad(T)=1\|.
   """"
@@ -488,8 +497,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   by using coordinate (rather than arc-length) parametrisation.
   ----
 
-1.
+12.
+  ----
   [Page~34, equation~(3.53)]:
+  ----
   """"{.examiner}
   put x0 in here.
   """"
@@ -507,8 +518,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   if the equation were to have two positive solutions, {{x}}{0} and~{{x}}{1}.
   ----
 
-1.
+13.
+  ----
   [Page~34, last line]:
+  ----
   """"{.examiner}
   do you want to draw
   [two curves which are virtually indistinguishable]
@@ -519,8 +532,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   The caption would be no different to the existing text.
   ----
 
-1.
+14.
+  ----
   [Page~40, Paragraph~4]:
+  ----
   """"{.thesis}
   [...] Only the portions of traced boundary
   which lie <ins class="examiner">on the</ins> convex side
@@ -533,18 +548,22 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Having "on the" followed by "of the" is a bit of a mouthful.
   ----
 
-1.
+15.
+  ----
   [Page~40, Paragraph~4]:
+  ----
   """"{.thesis}
   Since the <del>end</del><ins class="examiner">aim?</ins>
   is to construct a domain [...]
   """"
   ----
-  [NO]. End means aim.
+  [NO] End means aim.
   ----
 
-1.
+16.
+  ----
   [Page~40, Paragraph~5]:
+  ----
   """"{.examiner}
   [...]
   I'm not sure how to word it better because it is quite complex.
