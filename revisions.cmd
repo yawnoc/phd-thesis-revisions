@@ -1639,6 +1639,28 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO]
   ----
+
+84.
+  ----
+  [Page~149]:
+  ----
+  """"{.examiner}
+  I think some more context is needed here
+  to explain the value of section 8.3.
+  Are non-rounded corners of practical interest
+  or is this just a mathematical exercise
+  (it's okay if it is, but you should be honest).
+  Similarly what is the value of the bounded height?
+  """"
+  ----
+  [NO] General modifications (including truncations)
+  are easy to do practically.
+  The value of the reults here is high
+  given the scarcity of explicit analytical results
+  described in the capillarity introduction (Section~1.3).
+  We now know how to modify a corner
+  so as to ensure that the height rise does not increase.
+  ----
 ++++++++++++++++
 
 
