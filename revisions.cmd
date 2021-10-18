@@ -1582,6 +1582,26 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO] See [Suggestion~78](#de-singularised) above.
   ----
+
+80.
+  ----
+  [Page~144, Section~8.3]:
+  ----
+  """"{.examiner}
+  I would consider restructuring this chapter.
+  As you concede, most things prior to 8.3
+  are no different than for a moderate wedge
+  so I would consider renaming Chapter 6 "Moderate and small wedges"
+  and then making everything prior to 8.3 a section of chapter 6.
+  You can then have a separate chapter on "General modification of a corner"
+  """"
+  ----
+  [NO] The 1/{{r}}~singularity of the small wedge
+  is more than enough to merit a separate chapter (per the existing structure).
+  The appearance of "General modification of a corner"
+  as a section within the small wedge chapter
+  reflects the chronology of the actual research process I went through.
+  ----
 ++++++++++++++++
 
 
