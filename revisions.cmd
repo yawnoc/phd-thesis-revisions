@@ -1160,6 +1160,15 @@ and I note that I had no control over how the request for it was worded.
   ----
   [NO] The suggested edit removes meaning.
   ----
+
+1.
+  """"{.examiner}
+  [Page~132, second paragraph, last sentence]: awkward sentence
+  """"
+  ----
+  [NO] The sentence might be poetic, but there is nothing wrong with it
+  (in terms of both grammar and understandability).
+  ----
 ++++++++++++++++
 
 
