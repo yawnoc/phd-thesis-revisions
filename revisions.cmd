@@ -1211,8 +1211,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   The figures just show a particular example.
   ----
 
-1.
+56.
+  ----
   [Page~108, Item~3]:
+  ----
   """"{.thesis}
   ++++{start=3}
   3.
