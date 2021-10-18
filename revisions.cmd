@@ -1081,15 +1081,17 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   will clearly improve with a denser mesh.
   ----
 
-1.
+48.
+  ----
+  [Page~95, Figure~6.14]:
+  ----
   """"{.examiner}
-  [Page~95, Figure~6.14]
   Consider throughout consistently using degrees or radians.
   The latter is better.
   """"
   ----
   [NO]
-  For general equations I have consistently used radians,
+  In theoretical equations I have consistently used radians,
   (e.g. for regime inequalities such as {{α}} \< π/2 − {{γ}}).
   In specific numerical examples I have used degrees for readability.
   For example, if ({{α}}, {{γ}}) = (40°, 55°) then we can immediately see
