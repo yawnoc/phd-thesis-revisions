@@ -1324,6 +1324,17 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   It is also underpromising and overdelivering.
   ----
 
+64.
+  ----
+  [Page~122, Figure~7.17]:
+  ----
+  """"{.examiner}
+  height appears non-smooth
+  """"
+  ----
+  [YES] See [Examiner~2 \> Viva Voce \> Suggestion~5](#non-smooth)
+  ----
+
 1.
   """"{.examiner}
   [Page~123, Paragraph~1, last sentence]
@@ -1552,7 +1563,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   whether analytically or numerically.
   ----
 
-5.
+5.{#non-smooth}
   """"{.examiner}
   [Page~122]
   Suggest remark about why the curves in Figure~7.17 are not smooth.
