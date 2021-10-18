@@ -612,8 +612,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   (which we know produces exact results when used correctly).
   ----
 
-1.
+19.
+  ----
   [Page~42, last line]:
+  ----
   """"{.examiner}
   ["completely"] is a strong word, I would remove it.
   It is very convincing yes, but there is no rigorous proof or anything.
@@ -629,8 +631,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   See b<https://github.com/yawnoc/phd-thesis/commit/f1cde15>.
   ----
 
-1.
+20.
+  ----
   [Page~46, equation~(4.14)]:
+  ----
   """"{.examiner}
   This is a bit of a convoluted away to arrive at this.
   Since you're taking T0 and r0 as the scales anyway just do that
@@ -641,8 +645,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Doing it in full shows why the chosen scaling is the best.
   ----
 
-1.
+21.
+  ----
   [Page~47, after~(4.21)]:
+  ----
   """"{.examiner}
   Just for math technicality,
   just because there is a maximum doesn't mean there is a single maximum.
@@ -651,11 +657,14 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] I do not claim there is a single maximum because there is a maximum.
-  The single maximum follows because the sign change is the only sign change.
+  The single maximum follows because there is a single sign change
+  in the derivative from positive to negative.
   ----
 
-1.
+22.
+  ----
   [Page~52, first line]:
+  ----
   """"{.examiner}
   Is ["neither of these are limit cycles"] obvious? It's not clear to me.
   If it's just a repeat of the previous exercise
@@ -667,8 +676,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   In any case, the sought exercise appears on the next page (Section~4.4.1).
   ----
 
-1.
+23.
+  ----
   [Page~52, Paragraph~3, first line]:
+  ----
   """"{.examiner}
   reword ["this restriction is most severe"]. Do you mean it's impossible?
   """"
@@ -680,8 +691,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   whose boundary is the circle {{r}} = {{r}}{flat}.
   """"
 
-1.
+24.
+  ----
   [Page~52, Paragraph~3, middle]:
+  ----
   """"{.examiner}
   reword ["spiralling in forever towards the singularity"]
   """"
@@ -689,8 +702,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] The trajectory in question spirals in, forever, towards the singularity.
   ----
 
-1.
+25.
+  ----
   [Page~54, before~(4.36)]:
+  ----
   """"{.examiner}
   ----
   [For "tangent line to the circle",]
@@ -710,8 +725,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   that the tangency occurs at~{{ϕ}} = 0.
   ----
 
-1.
+26.
+  ----
   [Page~54, equation~(4.37)]:
+  ----
   """"{.examiner}
   clarifying you're expanding phi small here.
   """"
@@ -719,8 +736,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] Obvious from the context.
   ----
 
-1.
+27.
+  ----
   [Page~54, unnumbered equation, after~(4.37)]:
+  ----
   """"{.examiner}
   ----
   I'm not sure I really get this.
@@ -738,8 +757,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   as explained in the viva voce.
   ----
 
-1.{#acceleration}
+28.{#acceleration}
+  ----
   [Page~56, first line]:
+  ----
   """"{.examiner}
   [[[r]]''] isn't really acceleration...be careful with that terminology.
   """"
@@ -748,8 +769,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   playing the role of time.
   ----
 
-1.
+29.
+  ----
   [Page~56, Paragraph~1, after~(4.49)]:
+  ----
   """"{.examiner}
   does [{{κ}} have the same sign changes as the curvature]?
   Why not just use the curvature with the outward normal?
@@ -759,8 +782,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   And we avoid the usual curvature because it contains a horrible power of~3/2.
   ----
 
-1.
+30.
+  ----
   [Page~56, Paragraph~2, before~(4.50)]:
+  ----
   """"{.examiner}
   is [{{L}} = log~{{r}}] really for brevity?
   Seems like more work.
@@ -771,22 +796,26 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   And having the definition separate from~(4.51) improves readability.
   ----
 
-1.
+31.
+  ----
   [Page~56, after~(4.54)]:
+  ----
   """"{.examiner}
   This analysis makes more mathematical sense than what you did above.
   Do you need the earlier piece [Page~54]?
   """"
   ----
-  [NO] Absolutely. It makes sense to check (via the earlier piece)
-  that convexity is even possible,
+  [NO] The earlier piece is needed.
+  It makes sense to check that convexity is even possible,
   before we pass to a global curvature analysis.
   If convexity were not possible,
   then the global analysis would be a waste of time.
   ----
 
-1.
+32.
+  ----
   [Page~56, last paragraph, before numbered list]:
+  ----
   """"{.examiner}
   [Should {{r}} ≤ {{r}}{sharp} be] r=r\_sharp?
   """"
