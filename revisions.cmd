@@ -1422,7 +1422,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   in Figure~7.23 [Page~128].
   ----
 
-1.
+70.
   ----
   [Page~132, second paragraph, first sentence]:
   ----
@@ -1440,14 +1440,23 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   above.
   ----
 
-1.
+71.
+  ----
+  [Page~132, second paragraph, last sentence]:
+  ----
   """"{.examiner}
-  [Page~132, second paragraph, last sentence] awkward sentence
+  awkward sentence
   """"
   ----
-  [NO] The sentence might be poetic, but there is nothing wrong with it
-  (in terms of both grammar and understandability).
+  [NO] The sentence might be mildly poetic, but there is nothing wrong with it
+  (in terms of both grammar and understandability):
   ----
+  """"{.thesis}
+  [...] Requiring not the generality of~(8.2) \&~(8.3),
+  but nevertheless inspired by the overall idea,
+  we implement here a similar transformation in polar coordinates
+  (which are orthogonal).
+  """"
 ++++++++++++++++
 
 
