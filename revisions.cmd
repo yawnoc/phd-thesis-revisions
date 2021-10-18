@@ -1521,6 +1521,22 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   See [Examiner~2 \> Viva Voce \> Suggestion~6](#indeterminate).
   ----
+
+76.
+  ----
+  [Page~137, after~(8.28)]:
+  ----
+  """"{.thesis}
+  where [...]
+  <del>is the de-singularised version</del>\
+  <ins class="examiner">is non-singular for small {{r}}</ins>.
+  """"
+  ----
+  [NO] The terminology "de-singularised version" is introduced
+  so that we have a succinct term to describe expressions
+  for which the {{r}} = 0 singularity has been removed.
+  Such variables are consistently marked with a tilde.
+  ----
 ++++++++++++++++
 
 
