@@ -593,6 +593,25 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   which it is not.
   ----
 
+18.
+  ----
+  [Page~42, Paragraph~3]:
+  ----
+  """"{.examiner}
+  you need to be careful
+  [when you say error is "strictly less than 7 × 10^−4"].
+  This is not absolutely good.
+  Is the error numerical or model?
+  Does it refine with mesh size, etc.?
+  """"
+  ----
+  [NO] The focus of boundary tracing is not numerics,
+  so such a detailed analysis was not considered.
+  The numerical verification only serves to ensure that
+  nothing has gone awry with boundary tracing
+  (which we know produces exact results when used correctly).
+  ----
+
 1.
   [Page~42, last line]:
   """"{.examiner}
