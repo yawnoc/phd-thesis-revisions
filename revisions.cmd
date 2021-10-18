@@ -333,6 +333,17 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  """"{.examiner}
+  [Page~5, Figure~1.3]
+  Of interesting note,
+  this is also an important problem in porous media
+  when pores are approximated as triangles.
+  """"
+  ----
+  [NO] Nothing to do, just a comment.
+  ----
+
+1.
   [Page~8, Paragraph~2]:
   """"{.thesis}
   [...] we must remember that the small-slope assumption ([[del]]{{T}})² ≪ 1
@@ -812,7 +823,7 @@ and I note that I had no control over how the request for it was worded.
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~24](#acceleration).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~25](#acceleration).
   ----
 
 1.
@@ -822,7 +833,7 @@ and I note that I had no control over how the request for it was worded.
   Your work should be reproducible.
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~30](#exact).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~31](#exact).
   On reproducibility:
   ----
   ++++
