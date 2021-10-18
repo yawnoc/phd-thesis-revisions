@@ -1334,7 +1334,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   height appears non-smooth
   """"
   ----
-  [YES] See [Examiner~2 \> Viva Voce \> Suggestion~5](#non-smooth)
+  See [Examiner~2 \> Viva Voce \> Suggestion~5](#non-smooth).
   ----
 
 65.
@@ -1510,6 +1510,17 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   (because we need things to be formally rectangular).
   The 𝔻~operator is therefore unphysical.
   ----
+
+75.
+  ----
+  [Page~135, second paragraph]:
+  ----
+  """"{.examiner}
+  but at r=0 you will have 0/0. Is that a problem?
+  """"
+  ----
+  See [Examiner~2 \> Viva Voce \> Suggestion~6](#indeterminate).
+  ----
 ++++++++++++++++
 
 
@@ -1675,7 +1686,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   </ins>
   """"
 
-6.
+6.{#indeterminate}
   """"{.examiner}
   [Page~135]
   Suggest improvement of wording to clarify that {{H}} = 0 is necessary
