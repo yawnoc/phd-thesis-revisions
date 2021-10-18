@@ -1406,6 +1406,22 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Those questions are not ones that I can address as an applied mathematician.
   ----
 
+69.
+  ----
+  [Page~129]:
+  ----
+  """"{.examiner}
+  I find this last section on etching a bit unclear.
+  Why is the etching needed?
+  Why not just take the proper rounded contour and dip/compute.
+  I understand it's not a boundary curve, but why does this matter?
+  """"
+  ----
+  [NO] Without the etching, we do not get a (near-)level height rise.
+  Compare the black (grooved) and grey (grooveless) height-rise profiles
+  in Figure~7.23 [Page~128].
+  ----
+
 1.
   ----
   [Page~132, second paragraph, first sentence]:
