@@ -89,7 +89,10 @@
     margin-top: 2em;
   }
   .revisions > li:first-child {
-    margin-top: 0em;
+    margin-top: 0.5em;
+  }
+  .revisions > li:first-child > p:first-child {
+    margin-top: 0;
   }
   h1 + ul {
     margin-top: 1em;
@@ -575,8 +578,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [Examiner~1 \> Viva Voce \> Suggestion~1](#busy).
   ----
 
-1.
+17.
+  ----
   [Page~42, Paragraph~2]:
+  ----
   """"{.examiner}
   [Instead of "({{B}}~arbitrary)",] say what it is...\
   I know you say it in the figure but you should still say it here.
