@@ -1130,6 +1130,22 @@ and I note that I had no control over how the request for it was worded.
   3. [...]
   ++++
   """"
+
+1.
+  ----
+  [Page~128, last paragraph]:
+  ----
+  """"{.thesis}
+  [...]
+  Whether this is actually feasible
+  and how one might achieve a prescribed dependence on position are
+  <del>questions which we shall leave to the physicists and engineers</del>\
+  <ins class="examiner">open questions</ins>;
+  [...]
+  """"
+  ----
+  [NO] The suggested edit removes meaning.
+  ----
 ++++++++++++++++
 
 
