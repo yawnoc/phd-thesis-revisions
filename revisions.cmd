@@ -1069,6 +1069,18 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   that problem is, well, linear; it will hardly challenge a nonlinear solver.
   ----
 
+47.
+  ----
+  [Page~92, last paragraph]:
+  ----
+  """"{.examiner}
+  how does [the mesh element requirement] help with accuracy?
+  """"
+  ----
+  [NO] The ability to "evaluate first derivatives accurately"
+  will clearly improve with a denser mesh.
+  ----
+
 1.
   """"{.examiner}
   [Page~95, Figure~6.14]
