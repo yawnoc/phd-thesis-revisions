@@ -1613,6 +1613,18 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO] I disagree. Must scientific writing be robotic?
   ----
+
+82.
+  ----
+  [Page~148, second-last line]:
+  ----
+  """"{.thesis}
+  As before, <del>our stubborn insistence on</del> avoiding sharp corners
+  has been a major restriction.
+  """"
+  ----
+  [NO] The suggested edit changes the meaning.
+  ----
 ++++++++++++++++
 
 
