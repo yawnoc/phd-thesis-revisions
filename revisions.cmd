@@ -1676,6 +1676,26 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO] This is not hyperbole; "supported" is unfairly restrained.
   ----
+
+86.
+  ----
+  [Page~152, bottom]:
+  ----
+  """"{.examiner}
+  But many of the ODEs you solve are done so numerically.
+  Of course solving ODEs is easier than solving PDEs,
+  but the restrictions of the method might make this cost-savings
+  not as large as you state.
+  You should elaborate on this here.
+  """"
+  ----
+  [NO] This issue has been addressed earlier in the page
+  ("While it seems pointless to produce traced boundaries
+  from a known solution that has been computed numerically [...]").
+  The finishing paragraph merely observes that,
+  given an already-computed numerical solution to a boundary value problem,
+  we may as well apply boundary tracing to it.
+  ----
 ++++++++++++++++
 
 
