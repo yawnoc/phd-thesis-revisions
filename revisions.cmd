@@ -1621,9 +1621,23 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"{.thesis}
   As before, <del>our stubborn insistence on</del> avoiding sharp corners
   has been a major restriction.
+  [...]
   """"
   ----
   [NO] The suggested edit changes the meaning.
+  ----
+
+83.
+  ----
+  [Page~148, last line]:
+  ----
+  """"{.thesis}
+  [...]
+  <del>Remembering</del><ins class="examiner">Recalling</ins>
+  the usefulness of the results that emerged [...].
+  """"
+  ----
+  [NO]
   ----
 ++++++++++++++++
 
