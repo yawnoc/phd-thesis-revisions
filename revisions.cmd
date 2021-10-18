@@ -1110,7 +1110,7 @@ and I note that I had no control over how the request for it was worded.
 
 1.
   ----
-  [Page~127, last paragraph]
+  [Page~127, last paragraph]:
   ----
   """"{.thesis}
   [...] this is because each groove is <del>itself</del>
