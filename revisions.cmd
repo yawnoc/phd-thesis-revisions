@@ -1228,6 +1228,18 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] The suggested edit removes meaning.
   ----
 
+57.
+  ----
+  [Page~110, Figure~6.31]:
+  ----
+  """"{.examiner}
+  Why can conventional cover much more?
+  """"
+  ----
+  [NO] See [Examiner~2 \> Viva Voce \> Suggestion~4](#conventional)
+  ('Boundary tracing' versus 'Conventional').
+  ----
+
 1.
   """"{.examiner}
   [Page~110, Paragraph~1]
@@ -1479,7 +1491,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
       , ![Figure 5.10 after](bipolar-verification-relative-error-AFTER.png)
   ''''
 
-4.
+4.{#conventional}
   """"{.examiner}
   [Page~110]
   Suggest articulating that boundary tracing results are
