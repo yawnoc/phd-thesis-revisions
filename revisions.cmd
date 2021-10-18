@@ -1602,6 +1602,17 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   as a section within the small wedge chapter
   reflects the chronology of the actual research process I went through.
   ----
+
+81.
+  ----
+  [Page~145, paragraph before Section~8.3.1]:
+  ----
+  """"{.examiner}
+  ["rare theoretical gem" is] awkward
+  """"
+  ----
+  [NO] I disagree. Must scientific writing be robotic?
+  ----
 ++++++++++++++++
 
 
