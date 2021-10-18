@@ -1100,6 +1100,20 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   This is far from obvious if we instead write ({{α}}, {{γ}}) = (2π/9, 11π/36).
   ----
 
+49.
+  ----
+  [Page~95, last line]:
+  ----
+  """"{.examiner}
+  are [the numerical wedge solutions Cartesian-based]?
+  I thought you set up a polar coordinate mesh on an arc.
+  """"
+  ----
+  [NO] It is an unstructured triangular mesh,
+  as clearly indicated in the text [Page~92, last paragraph]
+  and clearly visible in Figure~6.12 [Page~93].
+  ----
+
 1.
   """"{.examiner}
   [Page~98, Figure~6.17 etc.]
