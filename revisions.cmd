@@ -1457,6 +1457,21 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   we implement here a similar transformation in polar coordinates
   (which are orthogonal).
   """"
+
+72.
+  ----
+  [Page~133, equations~(8.7) to~(8.11)]:
+  ----
+  """"{.examiner}
+  You're making this sound much more complicated than it is.
+  This is just transforming to polar coordinates.
+  """"
+  ----
+  [NO] The transformation is non-trivial.
+  We are trying to interpret~{{r}} and~{{ϕ}} as rectangular coordinates
+  for the purposes of doing numerics.
+  This is not merely a re-labelling of the coordinates.
+  ----
 ++++++++++++++++
 
 
