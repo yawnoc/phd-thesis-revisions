@@ -964,7 +964,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   2. All code is available at b<https://github.com/yawnoc/phd-code>.
   ++++
 
-1.
+41.
   ----
   [Page~86, Paragraph~2]:
   ----
@@ -989,7 +989,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   "[...] solved, for [...]".
   ----
 
-1.
+42.
   ----
   [Page~86, last paragraph, second line]:
   ----
@@ -1014,17 +1014,19 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   of being "curves along which [...] (6.10)~holds".
   ----
 
-1.
-  """"{.examiner}
+43.
+  ----
   [Page~86, last paragraph, second-last line]:
+  ----
+  """"{.examiner}
   almost? What isn't arbitrary about [an almost arbitrary fashion]?
   """"
   ----
   [NO] The "only restriction", which is described directly afterwards
-  in the clause after the semicolon.
+  in the clause following the semicolon.
   ----
 
-1.
+44.{#most}
   ----
   [Page~87, Paragraph~2]:
   ----
@@ -1036,7 +1038,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] Most means highly, or very.
   ----
 
-1.
+45.
   ----
   [Page~91, Paragraph~1]:
   ----
@@ -1052,9 +1054,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   it is Mathematica's algorithm that does the work.
   ----
 
-1.
+46.
+  ----
+  [Page~92, Figure~6.11]:
+  ----
   """"{.examiner}
-  [Page~92, Figure~6.11]
   why not benchmark on the wedge problem
   for which you do have an analytical solution.
   You could show agreement for gamma near Pi/2 and then veer away.
