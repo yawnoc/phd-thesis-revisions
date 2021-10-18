@@ -1661,6 +1661,21 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   We now know how to modify a corner
   so as to ensure that the height rise does not increase.
   ----
+
+85.
+  ----
+  [Page~151, middle]:
+  ----
+  """"{.thesis}
+  [...]
+  These results have been <del>solidly backed</del>\
+  <ins class="examiner">supported</ins>
+  by numerical verification using finite elements.
+  [...]
+  """"
+  ----
+  [NO] This is not hyperbole; "supported" is unfairly restrained.
+  ----
 ++++++++++++++++
 
 
