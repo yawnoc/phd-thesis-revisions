@@ -1182,6 +1182,21 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   nor the rhetorical question are informal.
   ----
 
+54.
+  ----
+  [Page~102, equation~(6.59)]:
+  ----
+  """"{.examiner}
+  Yes...but you don't even need to use gamma at all
+  since you don't have to satisfy any BCs in particular
+  to find a solution to the the PDE.
+  """"
+  ----
+  [NO] The existing wedge solutions result in roundings to an offset wedge
+  (which is critical to the problem at hand),
+  as explained in the viva voce.
+  ----
+
 1.
   [Page~108, Item~3]:
   """"{.thesis}
