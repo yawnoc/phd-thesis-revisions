@@ -1553,6 +1553,22 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Now we are actually doing the boundary tracing.
   Hence "actually performing".
   ----
+
+78.
+  ----
+  [Page~138, after~(8.32)]:
+  ----
+  """"{.thesis}
+  [...] according to the
+  <del>de-singularised</del><ins class="examiner">non-singular</ins>
+  expressions [...]
+  """"
+  ----
+  [NO] The suggested edit removes subtle meaning.
+  "De-singularised" indicates a non-singular expression
+  that was previously singular.
+  "Non-singular" just indicates a non-singular expression.
+  ----
 ++++++++++++++++
 
 
