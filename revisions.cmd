@@ -825,8 +825,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   {{r}} = {{r}}{sharp} would be a circle.
   ----
 
-1.
+33.
+  ----
   [Page~58, Figure~4.12 and Paragraph~2]:
+  ----
   """"{.examiner}
   It looks like the error is highest at the inner circle
   where the log condition is applied.
@@ -839,8 +841,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   per [Examiner~2 \> Viva Voce \> Suggestion~2](#absolute).
   ----
 
-1.{#exact}
+34.{#exact}
+  ----
   [Page~58, Paragraph~2]:
+  ----
   """"{.examiner}
   how many [triangular elements] is it?
   State the exact value [instead of "some~400"].
@@ -862,8 +866,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   b<https://doi.org/10.1093/qjmamj/hbi005>
   ----
 
-1.
+35.
+  ----
   [Page~60, Paragraph~1, last line]:
+  ----
   """"{.examiner}
   [Should be an upper-case] T\_sharp
   """"
@@ -872,8 +878,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Recall that {{t}}/°C = {{T}}/K − 273.15 [footnote on Page~26].
   ----
 
-1.
+36.
+  ----
   [Page~64, after~(5.11)]:
+  ----
   """"{.examiner}
   Consider rewording this so that v=-infinity corresponds to x=-a
   and v=+infinity corresponds to x=a.
@@ -897,8 +905,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   The term _singularity_ is therefore fully appropriate.
   ----
 
-1.
+37.
+  ----
   [Page~69, Item~1]:
+  ----
   """"{.examiner}
   I'm not sure what [avocado-like moat] means.
   Is it shaped like an avocado?
@@ -911,7 +921,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   which is positioned off-centre in relation to the flesh.
   ----
 
-1.
+38.
   ----
   [Page~71, first line]:
   ----
@@ -925,23 +935,27 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   elsewhere in the text.
   ----
 
-1.
+39.
+  ----
   [Page~73, equation~(5.46)]:
+  ----
   """"{.examiner}
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~27](#acceleration).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~28](#acceleration).
   ----
 
-1.
+40.
+  ----
   [Page~75, Paragraph~2]:
+  ----
   """"{.examiner}
   again state how many exactly [instead of "approximately~500"].
   Your work should be reproducible.
   """"
   ----
-  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~33](#exact).
+  [NO] Per [Examiner~2 \> Examiner's Report \> Suggestion~34](#exact).
   On reproducibility:
   ----
   ++++
