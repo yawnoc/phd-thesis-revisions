@@ -37,8 +37,7 @@ text-decoration: none;
 }
 blockquote {
 border-left: var(--solid-line-thick);
-margin-left: 0.5em;
-margin-bottom: 0.75em;
+margin: 0.4em 0.5em;
 padding: 0.3em 0.5em;
 }
 blockquote > :first-child {
@@ -86,7 +85,7 @@ text-decoration: none;
 }
 .revisions > li {
 break-inside: avoid;
-margin-top: 1em;
+margin-top: 2em;
 }
 h1 + ul {
 margin-top: 1em;
@@ -178,19 +177,12 @@ rather than a 'Pass subject to minor revision'.
 </p>
 </li>
 </ol>
-<p>
-Other than the above remark,
-the examiner only noted "a couple of trivial typographical errors",
-but these were not raised at the viva voce.
-Afterwards, I twice asked the Chair (M.R.) to request that
-the examiner's list of minor corrections be sent through.
-I do not understand why the list was not sent through,
-and I note that I had no control over how the request for it was worded.
-</p>
 <h3>Suggestions from Viva Voce</h3>
 <ol class="revisions">
-<li id="busy"><blockquote class="examiner">
-[Page 41]
+<li id="busy"><p>
+[Page 41]:
+</p>
+<blockquote class="examiner">
 Suggest improvement to the explanation of Figure&nbsp;3.22a.
 (Actual wording: it is a very "busy" diagram.)
 </blockquote>
@@ -248,26 +240,32 @@ for the changes to the LaTeX source.
 <h2>Examiner&nbsp;2 (I.M.)</h2>
 <h3>Suggestions from Examiner's Report</h3>
 <ol class="revisions">
-<li><blockquote class="examiner">
-[Page&nbsp;3, first top-level paragraph]
-where does ["as an […] ODE […], and integrate"] come from?
+<li><p>
+[Page&nbsp;3, first top-level paragraph]:
+</p>
+<blockquote class="examiner">
+where does ["as an ordinary differential equation&nbsp;(ODE)
+for the traced boundaries, and integrate"] come from?
 </blockquote>
 <p>
 <span class="action">Not adopted.</span> This is just a broad statement of how boundary tracing works.
-It doesn't come from anywhere.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;5, Figure&nbsp;1.3]
+<li><p>
+[Page&nbsp;5, Figure&nbsp;1.3]:
+</p>
+<blockquote class="examiner">
 Of interesting note,
 this is also an important problem in porous media
 when pores are approximated as triangles.
 </blockquote>
 <p>
-<span class="action">Not adopted.</span> Nothing to do, just a comment.
+<span class="action">Not adopted.</span> No revision to make; just a comment.
 </p>
 </li>
-<li>[Page&nbsp;8, Paragraph&nbsp;2]:
+<li><p>
+[Page&nbsp;8, Paragraph&nbsp;2]:
+</p>
 <blockquote class="thesis">
 […] we must remember that the small-slope assumption (<b class="del vector">∇</b><var>T</var>)² ≪ 1
 does not hold <del>good</del><ins class="examiner">well</ins>
@@ -285,18 +283,24 @@ in the highly nonlinear regimes of the Laplace–Young equation.
 </ol>
 </blockquote>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;8, Paragraph&nbsp;3]
+<li><p>
+[Page&nbsp;8, Paragraph&nbsp;3]:
+</p>
+<blockquote class="examiner">
 Can you put a diagram in showing and explaining
 [the Finn &amp;&nbsp;Kosmodem'yanskii] modifications?
 </blockquote>
+<p>
 <span class="action">Not adopted.</span> A diagram <em>could</em> be put in,
 but it would not sit suitably within the context of the section
 because the Finn &amp;&nbsp;Kosmodem'yanskii modifications
 are not boundary tracing modifications.
+</p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;10]
+<li><p>
+[Page&nbsp;10]:
+</p>
+<blockquote class="examiner">
 […] Perhaps adding an example with figure
 of where boundary tracing was used to success might help.
 […] A concrete example or further explanation of this
@@ -307,9 +311,11 @@ would help set the stage for the importance of this work.
 already do this (an example of prior boundary tracing).
 </p>
 </li>
-<li><blockquote class="examiner">
+<li><p>
+[Page&nbsp;14, unnumbered equation]:
+</p>
+<blockquote class="examiner">
 <p>
-[Page&nbsp;14, unnumbered equation]
 […] I suggest getting rid of the part before you introduce u(s) and v(s).
 At the very least reverse the order.
 You set everything up in terms of s already
@@ -334,8 +340,10 @@ The calculus (d<var>v</var>/d<var>u</var> = d<var>v</var>/d<var>s</var> ÷ d<var
 as explained in the viva voce.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;19, first paragraph]
+<li><p>
+[Page&nbsp;19, first paragraph]:
+</p>
+<blockquote class="examiner">
 It doesn't hurt to remind the reader of the problem here
 so that they don't have to flip back and forth.
 </blockquote>
@@ -347,8 +355,10 @@ in order to keep the lead paragraph free of display equations
 (as I have consistently done for all chapters).
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;19, Figure&nbsp;3.1]
+<li><p>
+[Page&nbsp;19, Figure&nbsp;3.1]:
+</p>
+<blockquote class="examiner">
 I would rewrite this section a bit by setting up the problem Txx=0
 with T=constant on x=a*lambda and radiation condition on x=lambda.
 It makes the problem and domain easier to visualize.
@@ -367,7 +377,7 @@ why one of the boundaries isn't chosen at&nbsp;<var>x</var> = 0;
 such issues are avoided in the existing presentation.
 </p>
 </li>
-<li>[Page&nbsp;21, Paragraph&nbsp;1, after&nbsp;(3.15)]
+<li>[Page&nbsp;21, Paragraph&nbsp;1, after&nbsp;(3.15)]:
 <blockquote class="thesis">
 […] consists of the <del>infinite</del><ins class="examiner">finite</ins>
 strip 0 ≤ <var>x</var> ≤ 1.
@@ -376,8 +386,8 @@ strip 0 ≤ <var>x</var> ≤ 1.
 <span class="action">Not adopted.</span> The strip is infinite in the <var>y</var>-direction.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;21, Paragraph&nbsp;2, before&nbsp;(3.16)]
+<li>[Page&nbsp;21, Paragraph&nbsp;2, before&nbsp;(3.16)]:
+<blockquote class="examiner">
 avoid this kind of subjective language ["boring"] in the thesis :).
 </blockquote>
 <p>
@@ -386,8 +396,8 @@ This is no more subjective than saying that it is "trivial",
 but less highbrow.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;21, equation&nbsp;(3.16)]
+<li>[Page&nbsp;21, equation&nbsp;(3.16)]:
+<blockquote class="examiner">
 why not use the arclength formulation here. |grad(T)=1|.
 </blockquote>
 <p>
@@ -395,8 +405,8 @@ why not use the arclength formulation here. |grad(T)=1|.
 by using coordinate (rather than arc-length) parametrisation.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;34, equation&nbsp;(3.53)]
+<li>[Page&nbsp;34, equation&nbsp;(3.53)]:
+<blockquote class="examiner">
 put x0 in here.
 </blockquote>
 <p>
@@ -413,8 +423,8 @@ Furthermore, keeping <var>x</var> generic is consistent with the treatment
 if the equation were to have two positive solutions, <var>x</var><sub>0</sub> and&nbsp;<var>x</var><sub>1</sub>.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;34, last line]
+<li>[Page&nbsp;34, last line]:
+<blockquote class="examiner">
 do you want to draw
 [two curves which are virtually indistinguishable]
 together?
@@ -446,8 +456,8 @@ is to construct a domain […]
 <span class="action">Not adopted.</span>. End means aim.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;40, Paragraph&nbsp;5]
+<li>[Page&nbsp;40, Paragraph&nbsp;5]:
+<blockquote class="examiner">
 […]
 I'm not sure how to word it better because it is quite complex.
 Is it possible to add more figures to walk the reader through the steps?
@@ -458,8 +468,8 @@ For improvements to the wording, see the changes made in reponse to
 <a href="#busy">Examiner&nbsp;1 &gt; Viva Voce &gt; Suggestion&nbsp;1</a>.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;42, Paragraph&nbsp;2]
+<li>[Page&nbsp;42, Paragraph&nbsp;2]:
+<blockquote class="examiner">
 [Instead of "(<var>B</var>&nbsp;arbitrary)",] say what it is…I know you say it in the figure but you should still say it here.
 </blockquote>
 <p>
@@ -469,8 +479,8 @@ this would imply that "the general case" is that specific value,
 which it is not.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;42, last line]
+<li>[Page&nbsp;42, last line]:
+<blockquote class="examiner">
 ["completely"] is a strong word, I would remove it.
 It is very convincing yes, but there is no rigorous proof or anything.
 </blockquote>
@@ -485,8 +495,8 @@ in the validity of the boundary tracing procedure.
 See &lt;<a href="https://github.com/yawnoc/phd-thesis/commit/f1cde15">https://github.com/yawnoc/phd-thesis/commit/f1cde15</a>&gt;.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;46, equation&nbsp;(4.14)]
+<li>[Page&nbsp;46, equation&nbsp;(4.14)]:
+<blockquote class="examiner">
 This is a bit of a convoluted away to arrive at this.
 Since you're taking T0 and r0 as the scales anyway just do that
 and arrive at your dimensionless constant for the radiation condition.
@@ -496,8 +506,8 @@ and arrive at your dimensionless constant for the radiation condition.
 Doing it in full shows why the chosen scaling is the best.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;47, after&nbsp;(4.21)]
+<li>[Page&nbsp;47, after&nbsp;(4.21)]:
+<blockquote class="examiner">
 Just for math technicality,
 just because there is a maximum doesn't mean there is a single maximum.
 In fact x=1 is a critical point as well, but it is a minimum.
@@ -508,8 +518,8 @@ Need just some different language here.
 The single maximum follows because the sign change is the only sign change.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;52, first line]
+<li>[Page&nbsp;52, first line]:
+<blockquote class="examiner">
 Is ["neither of these are limit cycles"] obvious? It's not clear to me.
 If it's just a repeat of the previous exercise
 then maybe state that doing this would show these are not limit cycles.
@@ -520,8 +530,8 @@ when <var>A</var> no longer takes the critical value.
 In any case, the sought exercise appears on the next page (Section&nbsp;4.4.1).
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;52, Paragraph&nbsp;3, first line]
+<li>[Page&nbsp;52, Paragraph&nbsp;3, first line]:
+<blockquote class="examiner">
 reword ["this restriction is most severe"]. Do you mean it's impossible?
 </blockquote>
 <p>
@@ -532,17 +542,17 @@ reword ["this restriction is most severe"]. Do you mean it's impossible?
 whose boundary is the circle <var>r</var> = <var>r</var><sub>♭</sub>.
 </blockquote>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;52, Paragraph&nbsp;3, middle]
+<li>[Page&nbsp;52, Paragraph&nbsp;3, middle]:
+<blockquote class="examiner">
 reword ["spiralling in forever towards the singularity"]
 </blockquote>
 <p>
 <span class="action">Not adopted.</span> The trajectory in question spirals in, forever, towards the singularity.
 </p>
 </li>
-<li><blockquote class="examiner">
+<li>[Page&nbsp;54, before&nbsp;(4.36)]:
+<blockquote class="examiner">
 <p>
-[Page&nbsp;54, before&nbsp;(4.36)]
 [For "tangent line to the circle",]
 you should clarify the tangent line to the circle at phi=0
 whichi s also the point of tangency for the curve.
@@ -560,17 +570,17 @@ Figure&nbsp;4.7 (directly above) also makes it clear
 that the tangency occurs at&nbsp;<var>ϕ</var> = 0.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;54, equation&nbsp;(4.37)]
+<li>[Page&nbsp;54, equation&nbsp;(4.37)]:
+<blockquote class="examiner">
 clarifying you're expanding phi small here.
 </blockquote>
 <p>
 <span class="action">Not adopted.</span> Obvious from the context.
 </p>
 </li>
-<li><blockquote class="examiner">
+<li>[Page&nbsp;54, unnumbered equation, after&nbsp;(4.37)]:
+<blockquote class="examiner">
 <p>
-[Page&nbsp;54, unnumbered equation, after&nbsp;(4.37)]
 I'm not sure I really get this.
 What does convexity at the point of tangency mean
 when locally it's quadratic?
@@ -586,8 +596,8 @@ Why it this?
 as explained in the viva voce.
 </p>
 </li>
-<li id="acceleration"><blockquote class="examiner">
-[Page&nbsp;56, first line]
+<li id="acceleration">[Page&nbsp;56, first line]:
+<blockquote class="examiner">
 [<b class="vector">r</b>''] isn't really acceleration…be careful with that terminology.
 </blockquote>
 <p>
@@ -595,8 +605,8 @@ as explained in the viva voce.
 playing the role of time.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;56, Paragraph&nbsp;1, after&nbsp;(4.49)]
+<li>[Page&nbsp;56, Paragraph&nbsp;1, after&nbsp;(4.49)]:
+<blockquote class="examiner">
 does [<var>κ</var> have the same sign changes as the curvature]?
 Why not just use the curvature with the outward normal?
 </blockquote>
@@ -605,8 +615,8 @@ Why not just use the curvature with the outward normal?
 And we avoid the usual curvature because it contains a horrible power of&nbsp;3/2.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;56, Paragraph&nbsp;2, before&nbsp;(4.50)]
+<li>[Page&nbsp;56, Paragraph&nbsp;2, before&nbsp;(4.50)]:
+<blockquote class="examiner">
 is [<var>L</var> = log&nbsp;<var>r</var>] really for brevity?
 Seems like more work.
 If need by just put (4.51) and then have L defined there.
@@ -616,8 +626,8 @@ If need by just put (4.51) and then have L defined there.
 And having the definition separate from&nbsp;(4.51) improves readability.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;56, after&nbsp;(4.54)]
+<li>[Page&nbsp;56, after&nbsp;(4.54)]:
+<blockquote class="examiner">
 This analysis makes more mathematical sense than what you did above.
 Do you need the earlier piece [Page&nbsp;54]?
 </blockquote>
@@ -629,8 +639,8 @@ If convexity were not possible,
 then the global analysis would be a waste of time.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;56, last paragraph, before numbered list]
+<li>[Page&nbsp;56, last paragraph, before numbered list]:
+<blockquote class="examiner">
 [Should <var>r</var> ≤ <var>r</var><sub>♯</sub> be] r=r_sharp?
 </blockquote>
 <p>
@@ -639,8 +649,8 @@ then the global analysis would be a waste of time.
 <var>r</var> = <var>r</var><sub>♯</sub> would be a circle.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;58, Figure&nbsp;4.12 and Paragraph&nbsp;2]
+<li>[Page&nbsp;58, Figure&nbsp;4.12 and Paragraph&nbsp;2]:
+<blockquote class="examiner">
 It looks like the error is highest at the inner circle
 where the log condition is applied.
 Presumably a smaller inner radius will correct this.
@@ -652,8 +662,8 @@ The relative error figure has now been made positive,
 per <a href="#absolute">Examiner&nbsp;2 &gt; Viva Voce &gt; Suggestion&nbsp;2</a>.
 </p>
 </li>
-<li id="exact"><blockquote class="examiner">
-[Page&nbsp;58, Paragraph&nbsp;2]
+<li id="exact">[Page&nbsp;58, Paragraph&nbsp;2]:
+<blockquote class="examiner">
 how many [triangular elements] is it?
 State the exact value [instead of "some&nbsp;400"].
 </blockquote>
@@ -674,8 +684,8 @@ Computation of capillary surfaces for the Laplace–Young equation.
 &lt;<a href="https://doi.org/10.1093/qjmamj/hbi005">https://doi.org/10.1093/qjmamj/hbi005</a>&gt;
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;60, Paragraph&nbsp;1, last line]
+<li>[Page&nbsp;60, Paragraph&nbsp;1, last line]:
+<blockquote class="examiner">
 [Should be an upper-case] T_sharp
 </blockquote>
 <p>
@@ -683,8 +693,8 @@ Computation of capillary surfaces for the Laplace–Young equation.
 Recall that <var>t</var>/°C = <var>T</var>/K − 273.15 [footnote on Page&nbsp;26].
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;64, after&nbsp;(5.11)]
+<li>[Page&nbsp;64, after&nbsp;(5.11)]:
+<blockquote class="examiner">
 Consider rewording this so that v=-infinity corresponds to x=-a
 and v=+infinity corresponds to x=a.
 These are not singularities geometrically,
@@ -707,8 +717,8 @@ and then observing how bipolar coordinates arise as a result.
 The term <i>singularity</i> is therefore fully appropriate.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;69, Item&nbsp;1]
+<li>[Page&nbsp;69, Item&nbsp;1]:
+<blockquote class="examiner">
 I'm not sure what [avocado-like moat] means.
 Is it shaped like an avocado?
 What is the 2D avocado equivalent?
@@ -721,7 +731,7 @@ which is positioned off-centre in relation to the flesh.
 </p>
 </li>
 <li><p>
-[Page&nbsp;71, first line]
+[Page&nbsp;71, first line]:
 </p>
 <blockquote class="thesis">
 The nature of the <del>up to four</del> critical terminal points
@@ -733,16 +743,16 @@ The nature of the <del>up to four</del> critical terminal points
 elsewhere in the text.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;73, equation&nbsp;(5.46)]
+<li>[Page&nbsp;73, equation&nbsp;(5.46)]:
+<blockquote class="examiner">
 same comments here about "velocity" and "acceleration"…not proper terms
 </blockquote>
 <p>
 <span class="action">Not adopted.</span> Per <a href="#acceleration">Examiner&nbsp;2 &gt; Examiner's Report &gt; Suggestion&nbsp;27</a>.
 </p>
 </li>
-<li><blockquote class="examiner">
-[Page&nbsp;75, Paragraph&nbsp;2]
+<li>[Page&nbsp;75, Paragraph&nbsp;2]:
+<blockquote class="examiner">
 again state how many exactly [instead of "approximately&nbsp;500"].
 Your work should be reproducible.
 </blockquote>

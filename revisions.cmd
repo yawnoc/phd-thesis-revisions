@@ -38,8 +38,7 @@
   }
   blockquote {
     border-left: var(--solid-line-thick);
-    margin-left: 0.5em;
-    margin-bottom: 0.75em;
+    margin: 0.4em 0.5em;
     padding: 0.3em 0.5em;
   }
   blockquote > :first-child {
@@ -87,7 +86,7 @@
   }
   .revisions > li {
     break-inside: avoid;
-    margin-top: 1em;
+    margin-top: 2em;
   }
   h1 + ul {
     margin-top: 1em;
@@ -248,23 +247,15 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
 ++++++++++++++++
 
-----
-Other than the above remark,
-the examiner only noted "a couple of trivial typographical errors",
-but these were not raised at the viva voce.
-Afterwards, I twice asked the Chair (M.R.) to request that
-the examiner's list of minor corrections be sent through.
-I do not understand why the list was not sent through,
-and I note that I had no control over how the request for it was worded.
-----
-
 
 ### \h3-defence ###
 
 ++++++++++++++++{.revisions}
 1.{#busy}
+  ----
+  [Page 41]:
+  ----
   """"{.examiner}
-  [Page 41]
   Suggest improvement to the explanation of Figure~3.22a.
   (Actual wording: it is a very "busy" diagram.)
   """"
@@ -323,28 +314,34 @@ and I note that I had no control over how the request for it was worded.
 
 ++++++++++++++++{.revisions}
 1.
+  ----
+  [Page~3, first top-level paragraph]:
+  ----
   """"{.examiner}
-  [Page~3, first top-level paragraph]
-  where does ["as an [...] ODE [...], and integrate"] come from?
+  where does ["as an ordinary differential equation~(ODE)
+  for the traced boundaries, and integrate"] come from?
   """"
   ----
   [NO] This is just a broad statement of how boundary tracing works.
-  It doesn't come from anywhere.
   ----
 
-1.
+2.
+  ----
+  [Page~5, Figure~1.3]:
+  ----
   """"{.examiner}
-  [Page~5, Figure~1.3]
   Of interesting note,
   this is also an important problem in porous media
   when pores are approximated as triangles.
   """"
   ----
-  [NO] Nothing to do, just a comment.
+  [NO] No revision to make; just a comment.
   ----
 
-1.
+3.
+  ----
   [Page~8, Paragraph~2]:
+  ----
   """"{.thesis}
   [...] we must remember that the small-slope assumption ([[del]]{{T}})² ≪ 1
   does not hold <del>good</del><ins class="examiner">well</ins>
@@ -361,20 +358,26 @@ and I note that I had no control over how the request for it was worded.
   ++++
   """"
 
-1.
+4.
+  ----
+  [Page~8, Paragraph~3]:
+  ----
   """"{.examiner}
-  [Page~8, Paragraph~3]
   Can you put a diagram in showing and explaining
   [the Finn \&~Kosmodem'yanskii] modifications?
   """"
+  ----
   [NO] A diagram *could* be put in,
   but it would not sit suitably within the context of the section
   because the Finn \&~Kosmodem'yanskii modifications
   are not boundary tracing modifications.
+  ----
 
-1.
+5.
+  ----
+  [Page~10]:
+  ----
   """"{.examiner}
-  [Page~10]
   [...] Perhaps adding an example with figure
   of where boundary tracing was used to success might help.
   [...] A concrete example or further explanation of this
@@ -385,10 +388,12 @@ and I note that I had no control over how the request for it was worded.
   already do this (an example of prior boundary tracing).
   ----
 
-1.
+6.
+  ----
+  [Page~14, unnumbered equation]:
+  ----
   """"{.examiner}
   ----
-  [Page~14, unnumbered equation]
   [...] I suggest getting rid of the part before you introduce u(s) and v(s).
   At the very least reverse the order.
   You set everything up in terms of s already
@@ -413,9 +418,11 @@ and I note that I had no control over how the request for it was worded.
   as explained in the viva voce.
   ----
 
-1.
+7.
+  ----
+  [Page~19, first paragraph]:
+  ----
   """"{.examiner}
-  [Page~19, first paragraph]
   It doesn't hurt to remind the reader of the problem here
   so that they don't have to flip back and forth.
   """"
@@ -427,9 +434,11 @@ and I note that I had no control over how the request for it was worded.
   (as I have consistently done for all chapters).
   ----
 
-1.
+8.
+  ----
+  [Page~19, Figure~3.1]:
+  ----
   """"{.examiner}
-  [Page~19, Figure~3.1]
   I would rewrite this section a bit by setting up the problem Txx=0
   with T=constant on x=a*lambda and radiation condition on x=lambda.
   It makes the problem and domain easier to visualize.
@@ -449,7 +458,7 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
-  [Page~21, Paragraph~1, after~(3.15)]
+  [Page~21, Paragraph~1, after~(3.15)]:
   """"{.thesis}
   [...] consists of the <del>infinite</del><ins class="examiner">finite</ins>
   strip 0 ≤ {{x}} ≤ 1.
@@ -459,8 +468,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~21, Paragraph~2, before~(3.16)]:
   """"{.examiner}
-  [Page~21, Paragraph~2, before~(3.16)]
   avoid this kind of subjective language ["boring"] in the thesis :).
   """"
   ----
@@ -470,8 +479,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~21, equation~(3.16)]:
   """"{.examiner}
-  [Page~21, equation~(3.16)]
   why not use the arclength formulation here. \|grad(T)=1\|.
   """"
   ----
@@ -480,8 +489,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~34, equation~(3.53)]:
   """"{.examiner}
-  [Page~34, equation~(3.53)]
   put x0 in here.
   """"
   ----
@@ -499,8 +508,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~34, last line]:
   """"{.examiner}
-  [Page~34, last line]
   do you want to draw
   [two curves which are virtually indistinguishable]
   together?
@@ -535,8 +544,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~40, Paragraph~5]:
   """"{.examiner}
-  [Page~40, Paragraph~5]
   [...]
   I'm not sure how to word it better because it is quite complex.
   Is it possible to add more figures to walk the reader through the steps?
@@ -548,8 +557,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~42, Paragraph~2]:
   """"{.examiner}
-  [Page~42, Paragraph~2]
   [Instead of "({{B}}~arbitrary)",] say what it is...\
   I know you say it in the figure but you should still say it here.
   """"
@@ -561,8 +570,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~42, last line]:
   """"{.examiner}
-  [Page~42, last line]
   ["completely"] is a strong word, I would remove it.
   It is very convincing yes, but there is no rigorous proof or anything.
   """"
@@ -578,8 +587,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~46, equation~(4.14)]:
   """"{.examiner}
-  [Page~46, equation~(4.14)]
   This is a bit of a convoluted away to arrive at this.
   Since you're taking T0 and r0 as the scales anyway just do that
   and arrive at your dimensionless constant for the radiation condition.
@@ -590,8 +599,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~47, after~(4.21)]:
   """"{.examiner}
-  [Page~47, after~(4.21)]
   Just for math technicality,
   just because there is a maximum doesn't mean there is a single maximum.
   In fact x=1 is a critical point as well, but it is a minimum.
@@ -603,8 +612,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~52, first line]:
   """"{.examiner}
-  [Page~52, first line]
   Is ["neither of these are limit cycles"] obvious? It's not clear to me.
   If it's just a repeat of the previous exercise
   then maybe state that doing this would show these are not limit cycles.
@@ -616,8 +625,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~52, Paragraph~3, first line]:
   """"{.examiner}
-  [Page~52, Paragraph~3, first line]
   reword ["this restriction is most severe"]. Do you mean it's impossible?
   """"
   ----
@@ -629,8 +638,8 @@ and I note that I had no control over how the request for it was worded.
   """"
 
 1.
+  [Page~52, Paragraph~3, middle]:
   """"{.examiner}
-  [Page~52, Paragraph~3, middle]
   reword ["spiralling in forever towards the singularity"]
   """"
   ----
@@ -638,9 +647,9 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~54, before~(4.36)]:
   """"{.examiner}
   ----
-  [Page~54, before~(4.36)]
   [For "tangent line to the circle",]
   you should clarify the tangent line to the circle at phi=0
   whichi s also the point of tangency for the curve.
@@ -659,8 +668,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~54, equation~(4.37)]:
   """"{.examiner}
-  [Page~54, equation~(4.37)]
   clarifying you're expanding phi small here.
   """"
   ----
@@ -668,9 +677,9 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~54, unnumbered equation, after~(4.37)]:
   """"{.examiner}
   ----
-  [Page~54, unnumbered equation, after~(4.37)]
   I'm not sure I really get this.
   What does convexity at the point of tangency mean
   when locally it's quadratic?
@@ -687,8 +696,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.{#acceleration}
+  [Page~56, first line]:
   """"{.examiner}
-  [Page~56, first line]
   [[[r]]''] isn't really acceleration...be careful with that terminology.
   """"
   ----
@@ -697,8 +706,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~56, Paragraph~1, after~(4.49)]:
   """"{.examiner}
-  [Page~56, Paragraph~1, after~(4.49)]
   does [{{κ}} have the same sign changes as the curvature]?
   Why not just use the curvature with the outward normal?
   """"
@@ -708,8 +717,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~56, Paragraph~2, before~(4.50)]:
   """"{.examiner}
-  [Page~56, Paragraph~2, before~(4.50)]
   is [{{L}} = log~{{r}}] really for brevity?
   Seems like more work.
   If need by just put (4.51) and then have L defined there.
@@ -720,8 +729,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~56, after~(4.54)]:
   """"{.examiner}
-  [Page~56, after~(4.54)]
   This analysis makes more mathematical sense than what you did above.
   Do you need the earlier piece [Page~54]?
   """"
@@ -734,8 +743,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~56, last paragraph, before numbered list]:
   """"{.examiner}
-  [Page~56, last paragraph, before numbered list]
   [Should {{r}} ≤ {{r}}{sharp} be] r=r\_sharp?
   """"
   ----
@@ -745,8 +754,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~58, Figure~4.12 and Paragraph~2]:
   """"{.examiner}
-  [Page~58, Figure~4.12 and Paragraph~2]
   It looks like the error is highest at the inner circle
   where the log condition is applied.
   Presumably a smaller inner radius will correct this.
@@ -759,8 +768,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.{#exact}
+  [Page~58, Paragraph~2]:
   """"{.examiner}
-  [Page~58, Paragraph~2]
   how many [triangular elements] is it?
   State the exact value [instead of "some~400"].
   """"
@@ -782,8 +791,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~60, Paragraph~1, last line]:
   """"{.examiner}
-  [Page~60, Paragraph~1, last line]
   [Should be an upper-case] T\_sharp
   """"
   ----
@@ -792,8 +801,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~64, after~(5.11)]:
   """"{.examiner}
-  [Page~64, after~(5.11)]
   Consider rewording this so that v=-infinity corresponds to x=-a
   and v=+infinity corresponds to x=a.
   These are not singularities geometrically,
@@ -817,8 +826,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~69, Item~1]:
   """"{.examiner}
-  [Page~69, Item~1]
   I'm not sure what [avocado-like moat] means.
   Is it shaped like an avocado?
   What is the 2D avocado equivalent?
@@ -832,7 +841,7 @@ and I note that I had no control over how the request for it was worded.
 
 1.
   ----
-  [Page~71, first line]
+  [Page~71, first line]:
   ----
   """"{.thesis}
   The nature of the <del>up to four</del> critical terminal points
@@ -845,8 +854,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~73, equation~(5.46)]:
   """"{.examiner}
-  [Page~73, equation~(5.46)]
   same comments here about "velocity" and "acceleration"...not proper terms
   """"
   ----
@@ -854,8 +863,8 @@ and I note that I had no control over how the request for it was worded.
   ----
 
 1.
+  [Page~75, Paragraph~2]:
   """"{.examiner}
-  [Page~75, Paragraph~2]
   again state how many exactly [instead of "approximately~500"].
   Your work should be reproducible.
   """"
