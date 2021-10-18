@@ -1114,9 +1114,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   and clearly visible in Figure~6.12 [Page~93].
   ----
 
-1.
+50.
+  ----
+  [Page~98, Figure~6.17 etc.]:
+  ----
   """"{.examiner}
-  [Page~98, Figure~6.17 etc.]
   It is not clear you need these figures.
   At immediate glance it's not clear how they are different
   from the figures you are referencing.
@@ -1127,9 +1129,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   even though we get qualitatively similar results.
   ----
 
-1.
+51.
+  ----
+  [Page~100, before~(6.44)]:
+  ----
   """"{.examiner}
-  [Page~100, before~(6.44)]
   [{{ξ}} = δ{{ξ}} is] awkward.
   Why not just use one variable and indicate it is small like you did before?
   """"
@@ -1138,9 +1142,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   It would be confusing to simultaneously have {{ξ}} be the small parameter.
   ----
 
-1.
+52.
+  ----
+  [Page~101, equation~(6.56)]:
+  ----
   """"{.examiner}
-  [Page~101, equation~(6.56)]
   it's not clear what the value of this rate is.
   A brief discussion or clarification would be good.
   """"
@@ -1151,9 +1157,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   to the tangential derivative~∂{{T}}/∂{{η}} (which is small).
   ----
 
-1.
+53.
+  ----
+  [Page~102, Paragraph~1]:
+  ----
   """"{.examiner}
-  [Page~102, Paragraph~1]
   This opening paragraph is awkward in its informal approach
   (contrasting much of the other text).
   You should consider rewriting
