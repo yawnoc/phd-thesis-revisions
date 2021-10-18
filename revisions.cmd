@@ -1554,7 +1554,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Hence "actually performing".
   ----
 
-78.
+78.{#de-singularised}
   ----
   [Page~138, after~(8.32)]:
   ----
@@ -1568,6 +1568,19 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   "De-singularised" indicates a non-singular expression
   that was previously singular.
   "Non-singular" just indicates a non-singular expression.
+  ----
+
+79.
+  ----
+  [Page~139, after~(8.34)]:
+  ----
+  """"{.thesis}
+  With the
+  <del>de-singularised</del><ins class="examiner">non-singular</ins>
+  flux [...]
+  """"
+  ----
+  [NO] See [Suggestion~78](#de-singularised) above.
   ----
 ++++++++++++++++
 
