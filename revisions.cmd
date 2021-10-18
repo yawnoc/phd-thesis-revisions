@@ -1240,9 +1240,11 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ('Boundary tracing' versus 'Conventional').
   ----
 
-1.
+58.
+  ----
+  [Page~110, Paragraph~1]:
+  ----
   """"{.examiner}
-  [Page~110, Paragraph~1]
   ["subsidiarily" is an] awkward choice of words
   """"
   ----
@@ -1252,7 +1254,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Hence it was "used subsidiarily".
   ----
 
-1.
+59.
   ----
   [Page~110, Paragraph~2]:
   ----
@@ -1272,28 +1274,35 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] The suggested edit changes the meaning.
   ----
 
-1.
-  """"{.examiner}
+60.
+  ----
   [Page~111, Paragraph~1, second sentence]
+  ----
+  """"{.examiner}
   run-on awkward sentence
   """"
   ----
   [NO] The commas in the sentence clearly delineate the three clauses.
   ----
 
-1.
+61.
+  ----
+  [Page~111, Paragraph~2, first sentence]:
+  ----
   """"{.examiner}
-  [Page~111, Paragraph~2, first sentence]
-  Add context. You have been solving this in the last chapter as well.
+  Add context.
+  You have been solving [the capillary BVP] in the last chapter as well.
   """"
   ----
   [NO] Sufficient context is provided by the chapter heading
   and the lead paragraph (at the top of the same page).
   ----
 
-1.
+62.
+  ----
+  [Page~112, Paragraph~2]:
+  ----
   """"{.examiner}
-  [Page~112, Paragraph~2]
   why [is there a large discrepancy]?
   """"
   ----
@@ -1301,14 +1310,18 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   "[...] Further investigation shows [...]".
   ----
 
-1.
+63.
+  ----
+  [Page~119, Paragraph~2]:
+  ----
   """"{.examiner}
-  [Page~119, Paragraph~2]
   I would avoid using bleak...it is what it is,
   but this sets up the section as pointless.
   """"
   ----
-  [NO] It tells the reader that the results of this section are precious.
+  [NO] It tells the reader that
+  any results we can obtain in this section are few and far between.
+  It is also underpromising and overdelivering.
   ----
 
 1.
