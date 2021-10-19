@@ -126,6 +126,9 @@
     margin-right: 0.15em;
     padding: 0.05em 0.25em;
   }
+  .adopted {
+    font-weight: bold;
+  }
   .del {
     font-family: 'DejaVu Sans';
     font-size: 0.985em;
@@ -162,7 +165,7 @@ Z{: \h3-defence : Suggestions from Viva Voce :}
 
 <## Actions in respons to suggestions ##>
 Z{: [NO] : <span class="action">Not adopted.</span> :}
-Z{: [YES] : <span class="action">Adopted.</span> :}
+Z{: [YES] : <span class="action adopted">Adopted.</span> :}
 
 <## Mathematical equations ##>
 A{: [[.]] : [[·]] :} <## U+00B7 MIDDLE DOT ##>
