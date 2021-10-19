@@ -628,7 +628,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   in the validity of the boundary tracing procedure.
   """"
   ----
-  See b<https://github.com/yawnoc/phd-thesis/commit/f1cde15>.
+  See b<https://github.com/yawnoc/phd-thesis/commit/1d9eb2b>.
   ----
 
 20.
@@ -1876,7 +1876,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Suggest remark about why the curves in Figure~7.17 are not smooth.
   """"
   ----
-  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/2c5461c>
+  [YES] See b<https://github.com/yawnoc/phd-thesis/commit/9a2cddb>
   for the changes to the LaTeX source. [Page~122]:
   ----
   """"{.thesis}
@@ -1884,10 +1884,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   we may obtain a family of height-rise profiles
   as shown in Figure~7.17.
   <ins>\
-    The non-smoothness of the profiles
+    (The non-smoothness of the profiles
     is caused by insufficient mesh refinement
     in the original (non-offset) wedge,
-    in the vicinity of each pseudo-rounding.\
+    in the vicinity of each pseudo-rounding.)\
   </ins>
   """"
 
