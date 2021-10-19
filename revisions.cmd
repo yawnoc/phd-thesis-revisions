@@ -641,7 +641,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   and arrive at your dimensionless constant for the radiation condition.
   """"
   ----
-  [NO] There was more than one way to choose the scales.
+  [NO] There is more than one way to choose the scales.
   Doing it in full shows why the chosen scaling is the best.
   ----
 
