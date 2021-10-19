@@ -841,7 +841,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] This is a misreading of Figure~4.12;
   note that the plotted relative error is negative.
   The relative error figure has now been made positive,
-  per [Examiner~2 \> Viva Voce \> Suggestion~2](#absolute).
+  per [Examiner~2 \> Viva Voce \> Suggestion~3](#absolute).
   ----
 
 34.{#exact}
