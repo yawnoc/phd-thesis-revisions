@@ -1141,7 +1141,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   Why not just use one variable and indicate it is small like you did before?
   """"
   ----
-  [NO] Because here we have many occurrences of "evaluation at {{ξ}} = 0".
+  [NO] Because here we have many occurrences of evaluation at {{ξ}} = 0.
   It would be confusing to simultaneously have {{ξ}} be the small parameter.
   ----
 
