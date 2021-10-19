@@ -1721,6 +1721,10 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
     as indicated in several footnotes.
   - Equations~(7.19) to~(7.24) (and surrounding text)
     are a rewritten form of a derivation in~[1, Section~6.4.2].
+    This is clearly delineated by
+      "We repeat here the derivation" [Page~124]
+    and
+      "This completes the derivation" [Page~125].
   ====
 ++++++++++++++++
 
