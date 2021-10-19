@@ -1501,7 +1501,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [NO] The components of the gradient operator ([[del]]) in polar coordinates
   are~∂/∂{{r}} (radial) and~(1/{{r}})(∂/∂{{ϕ}}) (azimuthal).
   Note in particular the scale factor of~1/{{r}} in the azimuthal component,
-  which ensures it has the correct dimensions (reciprocal length)
+  which ensures it has the correct dimensions (of reciprocal length)
   for a physical interpretation.
   ----
   ----
