@@ -781,7 +781,8 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] Yes, {{κ}} has the same sign changes as the curvature.
-  And we avoid the usual curvature because it contains a horrible power of~3/2.
+  We avoid the usual curvature because it contains an extra factor
+  with a horrible power of~3/2.
   ----
 
 30.
