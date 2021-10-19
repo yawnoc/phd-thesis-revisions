@@ -1154,8 +1154,8 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   A brief discussion or clarification would be good.
   """"
   ----
-  [NO] We immediately see that the rounding curve
-  makes an exponentially fast approach,
+  [NO] The equation is self-explanatory.
+  The rounding curve makes an exponentially fast approach,
   with the coefficient inversely proportional
   to the tangential derivative~∂{{T}}/∂{{η}} (which is small).
   ----
