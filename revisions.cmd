@@ -574,7 +574,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO]
-  For improvements to the wording, see the changes made in reponse to
+  For improvements to the wording, see the changes made in response to
   [Examiner~1 \> Viva Voce \> Suggestion~1](#busy).
   ----
 
@@ -986,7 +986,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] The suggested version is awkward.
-  Initally it reads as "[...] solved for [...]",
+  Initially it reads as "[...] solved for [...]",
   and it takes a second reading to correctly parse it as
   "[...] solved, for [...]".
   ----
@@ -1655,7 +1655,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   ----
   [NO] General modifications (including truncations)
   are easy to do practically.
-  The value of the reults here is high
+  The value of the results here is high
   given the scarcity of explicit analytical results
   described in the capillarity introduction (Section~1.3).
   We now know how to modify a corner
