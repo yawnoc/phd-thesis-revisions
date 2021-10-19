@@ -484,7 +484,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] The straight-line boundary ({{x}} = 1) is boring.
-  This is no more subjective than saying that it is "trivial",
+  This is no more subjective than saying that it is trivial,
   but less highbrow.
   ----
 
