@@ -1094,7 +1094,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO]
-  In theoretical equations I have consistently used radians,
+  In theoretical equations I have consistently used radians
   (e.g. for regime inequalities such as {{α}} \< π/2 − {{γ}}).
   In specific numerical examples I have used degrees for readability.
   For example, if ({{α}}, {{γ}}) = (40°, 55°) then we can immediately see
