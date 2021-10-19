@@ -1696,6 +1696,18 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   given an already-computed numerical solution to a boundary value problem,
   we may as well apply boundary tracing to it.
   ----
+
+87.
+  ----
+  [Page~164]:
+  ----
+  """"{.examiner}
+  A section needs to be added in the introduction
+  that outlines the novelty of the thesis.
+  There are many references to the works of Anderson
+  and the author's previous work [39]
+  that make it difficult to discern what is new work and what is old.
+  """"
 ++++++++++++++++
 
 
