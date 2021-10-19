@@ -1403,7 +1403,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   [...]
   """"
   ----
-  [NO] The suggested edit removes meaning.
+  [NO] The suggested edit changes the meaning.
   Those questions are not ones that I can address as an applied mathematician.
   ----
 
