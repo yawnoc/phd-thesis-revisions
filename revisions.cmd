@@ -862,7 +862,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   The final mesh consisted of about 18000 elements.
   """"
   ----
-  Scott, Sander, \&~Norbury (2005).
+  Quoted from Scott, Sander, \&~Norbury (2005).
   Computation of capillary surfaces for the Laplace--Young equation.
   '''The Quarterly Journal of Mechanics and Applied Mathematics''',
   58~(2), 201--212.
