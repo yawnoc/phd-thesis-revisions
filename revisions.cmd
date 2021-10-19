@@ -1252,7 +1252,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   """"
   ----
   [NO] It is not.
-  The numerical procedure was auxiliary (or supplemental)
+  The numerical procedure was supplemental
   to the asymptotic procedure.
   Hence it was "used subsidiarily".
   ----
