@@ -1708,6 +1708,19 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   and the author's previous work [39]
   that make it difficult to discern what is new work and what is old.
   """"
+  ----
+  [NO] As already indicated in the text:
+  ----
+  ====
+  - Section~6.1 revisits a linearised corner rounding problem in~[4].
+    This contextualises the work to follow.
+  - Section~6.2 presents corner rounding using a numerical wedge solution.
+    While this was also presented in~[39], there was a difference in objective.
+    The methodologies used in the current thesis are also much improved,
+    as indicated in several footnotes.
+  - Equations~(7.19) to~(7.24) (and surrounding text)
+    are a rewritten form of a derivation in~[1, Section~6.4.2].
+  ====
 ++++++++++++++++
 
 
