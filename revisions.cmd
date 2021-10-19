@@ -515,7 +515,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   a polynomial equation in~cos~{{x}}.
   """"
   ----
-  Since (3.53)~is a generic equation, it ought to have {{x}} be generic,
+  Since (3.53)~is a generic equation, it ought to have {{x}} generic,
   rather than substituted with the particular value~{{x}}{0}.
   Furthermore, keeping {{x}} generic is consistent with the treatment
   if the equation were to have two positive solutions, {{x}}{0} and~{{x}}{1}.
