@@ -1288,7 +1288,19 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
   run-on awkward sentence
   """"
   ----
-  [NO] The commas in the sentence clearly delineate the three clauses.
+  [YES] Compromise (changed second comma to a semicolon):
+  ----
+  """"{.thesis}
+  [...]
+  For simplicity we only consider infinite wedge domains,
+  for which uniqueness rules out the asymmetric solutions
+  observed by Korevaar~[34] (recall Figure~1.6)
+  and King~_et~al._~[33]<del>, which</del><ins>; those solutions</ins>
+  are only possible when the domain itself is asymmetric.
+  [...]
+  """"
+  ----
+  See b<https://github.com/yawnoc/phd-thesis/commit/8a39a71>.
   ----
 
 61.
