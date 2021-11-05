@@ -1932,6 +1932,7 @@ Z{: {sharp} : <sub>♯</sub> :} <## U+266F MUSIC SHARP SIGN ##>
 ++++++++++++++++{.revisions}
 1.
   ----
+  [Page~162]
   Fixed Figure~C.2 vertical axis range
   so that the bottom is exactly {{T}} = 0:
   ----
